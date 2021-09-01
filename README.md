@@ -15,7 +15,7 @@ This open source hardware LISN include following features:
 
 This work is heavily based on work from others mainly **Jay_Diddy_B** & **Noy** from EEVBLOG forum.
 
-See all links related to the Dual 5uH LISN:
+See all links related to the original Dual 5µH LISN:
 * https://www.eevblog.com/forum/projects/5uh-lisn-for-spectrum-analyzer-emcemi-work/75/
 * https://www.eevblog.com/forum/projects/5uh-lisn-for-spectrum-analyzer-emcemi-work/msg3420102/#msg3420102
 
