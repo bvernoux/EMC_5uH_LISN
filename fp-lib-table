@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name 5uH_LISN)(type KiCad)(uri "$(KIPRJMOD)/5uH_LISN.pretty")(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri /home/noy/Downloads/digikey-kicad-library-master/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name 1590)(type KiCad)(uri "/home/noy/Downloads/digikey-partner-kicad-library-master/Hammond Manufacturing/Box Templates/1590")(options "")(descr ""))
+)

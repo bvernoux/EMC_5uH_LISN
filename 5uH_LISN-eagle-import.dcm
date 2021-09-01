@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GDT_2pin_correct
+D Gas Discharge Tube with 2 Pins
+K gdt
+F ~
+$ENDCMP
+#
+#End Doc Library

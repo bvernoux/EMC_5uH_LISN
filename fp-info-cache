@@ -1,0 +1,4005 @@
+915384620315839
+5uH_LISN
+4,1-PAD
+<b>MOUNTING PAD</b> 4.1 mm, round
+
+0
+1
+1
+5uH_LISN
+1812
+
+
+0
+2
+2
+5uH_LISN
+BANANA_CONN
+
+
+0
+1
+1
+5uH_LISN
+C0805
+<b>CAPACITOR</b><p>
+
+0
+2
+2
+5uH_LISN
+C1206
+<b>CAPACITOR</b>
+
+0
+2
+2
+5uH_LISN
+C1210
+<b>CAPACITOR</b>
+
+0
+2
+2
+5uH_LISN
+COILCRAFT_1008PS
+
+
+0
+2
+2
+5uH_LISN
+NL453232
+
+
+0
+2
+2
+5uH_LISN
+PANASONIC_B
+<b>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package B</b>
+
+0
+2
+2
+5uH_LISN
+R0805
+<b>RESISTOR</b><p>
+
+0
+2
+2
+5uH_LISN
+R141426
+<b>BNC COAX CONNECTOR</b><p>{return}Radiall<p>{return}50/75 Ohm <p>{return}Spoerle
+
+0
+5
+5
+5uH_LISN
+RESC1812X51N
+
+
+0
+2
+2
+5uH_LISN
+S30-A400X
+
+
+0
+2
+2
+5uH_LISN
+SOD-123
+100V/150mA 1N4148 - Super Cheap
+
+0
+2
+2
+5uH_LISN
+WE-HCC_1090
+WE-HCC SMD High Current Cube Inductor 1090
+
+0
+2
+2
+5uH_LISN
+WE-HCI_7030_7040_7050
+SMD-Flat Wire High Current Inductor WE-HCI
+
+0
+2
+2
+ConnectorPinHeader1_27mm
+PinHeader_1x01_P1.27mm_Horizontal
+Through hole angled pin header, 1x01, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x01 1.27mm single row
+0
+1
+1
+ConnectorPinHeader1_27mm
+PinHeader_1x01_P1.27mm_Vertical
+Through hole straight pin header, 1x01, 1.27mm pitch, single row
+Through hole pin header THT 1x01 1.27mm single row
+0
+1
+1
+ConnectorPinHeader1_27mm
+PinHeader_1x02_P1.27mm_Horizontal
+Through hole angled pin header, 1x02, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x02 1.27mm single row
+0
+2
+2
+ConnectorPinHeader1_27mm
+PinHeader_1x02_P1.27mm_Vertical
+Through hole straight pin header, 1x02, 1.27mm pitch, single row
+Through hole pin header THT 1x02 1.27mm single row
+0
+2
+2
+ConnectorPinHeader1_27mm
+PinHeader_1x02_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x02, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x02 1.27mm single row style1 pin1 left
+0
+2
+2
+ConnectorPinHeader1_27mm
+PinHeader_1x02_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x02, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x02 1.27mm single row style2 pin1 right
+0
+2
+2
+ConnectorPinHeader1_27mm
+PinHeader_1x03_P1.27mm_Horizontal
+Through hole angled pin header, 1x03, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x03 1.27mm single row
+0
+3
+3
+ConnectorPinHeader1_27mm
+PinHeader_1x03_P1.27mm_Vertical
+Through hole straight pin header, 1x03, 1.27mm pitch, single row
+Through hole pin header THT 1x03 1.27mm single row
+0
+3
+3
+ConnectorPinHeader1_27mm
+PinHeader_1x03_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x03, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x03 1.27mm single row style1 pin1 left
+0
+3
+3
+ConnectorPinHeader1_27mm
+PinHeader_1x03_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x03, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x03 1.27mm single row style2 pin1 right
+0
+3
+3
+ConnectorPinHeader1_27mm
+PinHeader_1x04_P1.27mm_Horizontal
+Through hole angled pin header, 1x04, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x04 1.27mm single row
+0
+4
+4
+ConnectorPinHeader1_27mm
+PinHeader_1x04_P1.27mm_Vertical
+Through hole straight pin header, 1x04, 1.27mm pitch, single row
+Through hole pin header THT 1x04 1.27mm single row
+0
+4
+4
+ConnectorPinHeader1_27mm
+PinHeader_1x04_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x04, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x04 1.27mm single row style1 pin1 left
+0
+4
+4
+ConnectorPinHeader1_27mm
+PinHeader_1x04_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x04, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x04 1.27mm single row style2 pin1 right
+0
+4
+4
+ConnectorPinHeader1_27mm
+PinHeader_1x05_P1.27mm_Horizontal
+Through hole angled pin header, 1x05, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x05 1.27mm single row
+0
+5
+5
+ConnectorPinHeader1_27mm
+PinHeader_1x05_P1.27mm_Vertical
+Through hole straight pin header, 1x05, 1.27mm pitch, single row
+Through hole pin header THT 1x05 1.27mm single row
+0
+5
+5
+ConnectorPinHeader1_27mm
+PinHeader_1x05_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x05, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x05 1.27mm single row style1 pin1 left
+0
+5
+5
+ConnectorPinHeader1_27mm
+PinHeader_1x05_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x05, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x05 1.27mm single row style2 pin1 right
+0
+5
+5
+ConnectorPinHeader1_27mm
+PinHeader_1x06_P1.27mm_Horizontal
+Through hole angled pin header, 1x06, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x06 1.27mm single row
+0
+6
+6
+ConnectorPinHeader1_27mm
+PinHeader_1x06_P1.27mm_Vertical
+Through hole straight pin header, 1x06, 1.27mm pitch, single row
+Through hole pin header THT 1x06 1.27mm single row
+0
+6
+6
+ConnectorPinHeader1_27mm
+PinHeader_1x06_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x06, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x06 1.27mm single row style1 pin1 left
+0
+6
+6
+ConnectorPinHeader1_27mm
+PinHeader_1x06_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x06, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x06 1.27mm single row style2 pin1 right
+0
+6
+6
+ConnectorPinHeader1_27mm
+PinHeader_1x07_P1.27mm_Horizontal
+Through hole angled pin header, 1x07, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x07 1.27mm single row
+0
+7
+7
+ConnectorPinHeader1_27mm
+PinHeader_1x07_P1.27mm_Vertical
+Through hole straight pin header, 1x07, 1.27mm pitch, single row
+Through hole pin header THT 1x07 1.27mm single row
+0
+7
+7
+ConnectorPinHeader1_27mm
+PinHeader_1x07_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x07, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x07 1.27mm single row style1 pin1 left
+0
+7
+7
+ConnectorPinHeader1_27mm
+PinHeader_1x07_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x07, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x07 1.27mm single row style2 pin1 right
+0
+7
+7
+ConnectorPinHeader1_27mm
+PinHeader_1x08_P1.27mm_Horizontal
+Through hole angled pin header, 1x08, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x08 1.27mm single row
+0
+8
+8
+ConnectorPinHeader1_27mm
+PinHeader_1x08_P1.27mm_Vertical
+Through hole straight pin header, 1x08, 1.27mm pitch, single row
+Through hole pin header THT 1x08 1.27mm single row
+0
+8
+8
+ConnectorPinHeader1_27mm
+PinHeader_1x08_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x08, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x08 1.27mm single row style1 pin1 left
+0
+8
+8
+ConnectorPinHeader1_27mm
+PinHeader_1x08_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x08, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x08 1.27mm single row style2 pin1 right
+0
+8
+8
+ConnectorPinHeader1_27mm
+PinHeader_1x09_P1.27mm_Horizontal
+Through hole angled pin header, 1x09, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x09 1.27mm single row
+0
+9
+9
+ConnectorPinHeader1_27mm
+PinHeader_1x09_P1.27mm_Vertical
+Through hole straight pin header, 1x09, 1.27mm pitch, single row
+Through hole pin header THT 1x09 1.27mm single row
+0
+9
+9
+ConnectorPinHeader1_27mm
+PinHeader_1x09_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x09, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x09 1.27mm single row style1 pin1 left
+0
+9
+9
+ConnectorPinHeader1_27mm
+PinHeader_1x09_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x09, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x09 1.27mm single row style2 pin1 right
+0
+9
+9
+ConnectorPinHeader1_27mm
+PinHeader_1x10_P1.27mm_Horizontal
+Through hole angled pin header, 1x10, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x10 1.27mm single row
+0
+10
+10
+ConnectorPinHeader1_27mm
+PinHeader_1x10_P1.27mm_Vertical
+Through hole straight pin header, 1x10, 1.27mm pitch, single row
+Through hole pin header THT 1x10 1.27mm single row
+0
+10
+10
+ConnectorPinHeader1_27mm
+PinHeader_1x10_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x10, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x10 1.27mm single row style1 pin1 left
+0
+10
+10
+ConnectorPinHeader1_27mm
+PinHeader_1x10_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x10, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x10 1.27mm single row style2 pin1 right
+0
+10
+10
+ConnectorPinHeader1_27mm
+PinHeader_1x11_P1.27mm_Horizontal
+Through hole angled pin header, 1x11, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x11 1.27mm single row
+0
+11
+11
+ConnectorPinHeader1_27mm
+PinHeader_1x11_P1.27mm_Vertical
+Through hole straight pin header, 1x11, 1.27mm pitch, single row
+Through hole pin header THT 1x11 1.27mm single row
+0
+11
+11
+ConnectorPinHeader1_27mm
+PinHeader_1x11_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x11, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x11 1.27mm single row style1 pin1 left
+0
+11
+11
+ConnectorPinHeader1_27mm
+PinHeader_1x11_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x11, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x11 1.27mm single row style2 pin1 right
+0
+11
+11
+ConnectorPinHeader1_27mm
+PinHeader_1x12_P1.27mm_Horizontal
+Through hole angled pin header, 1x12, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x12 1.27mm single row
+0
+12
+12
+ConnectorPinHeader1_27mm
+PinHeader_1x12_P1.27mm_Vertical
+Through hole straight pin header, 1x12, 1.27mm pitch, single row
+Through hole pin header THT 1x12 1.27mm single row
+0
+12
+12
+ConnectorPinHeader1_27mm
+PinHeader_1x12_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x12, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x12 1.27mm single row style1 pin1 left
+0
+12
+12
+ConnectorPinHeader1_27mm
+PinHeader_1x12_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x12, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x12 1.27mm single row style2 pin1 right
+0
+12
+12
+ConnectorPinHeader1_27mm
+PinHeader_1x13_P1.27mm_Horizontal
+Through hole angled pin header, 1x13, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x13 1.27mm single row
+0
+13
+13
+ConnectorPinHeader1_27mm
+PinHeader_1x13_P1.27mm_Vertical
+Through hole straight pin header, 1x13, 1.27mm pitch, single row
+Through hole pin header THT 1x13 1.27mm single row
+0
+13
+13
+ConnectorPinHeader1_27mm
+PinHeader_1x13_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x13, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x13 1.27mm single row style1 pin1 left
+0
+13
+13
+ConnectorPinHeader1_27mm
+PinHeader_1x13_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x13, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x13 1.27mm single row style2 pin1 right
+0
+13
+13
+ConnectorPinHeader1_27mm
+PinHeader_1x14_P1.27mm_Horizontal
+Through hole angled pin header, 1x14, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x14 1.27mm single row
+0
+14
+14
+ConnectorPinHeader1_27mm
+PinHeader_1x14_P1.27mm_Vertical
+Through hole straight pin header, 1x14, 1.27mm pitch, single row
+Through hole pin header THT 1x14 1.27mm single row
+0
+14
+14
+ConnectorPinHeader1_27mm
+PinHeader_1x14_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x14, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x14 1.27mm single row style1 pin1 left
+0
+14
+14
+ConnectorPinHeader1_27mm
+PinHeader_1x14_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x14, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x14 1.27mm single row style2 pin1 right
+0
+14
+14
+ConnectorPinHeader1_27mm
+PinHeader_1x15_P1.27mm_Horizontal
+Through hole angled pin header, 1x15, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x15 1.27mm single row
+0
+15
+15
+ConnectorPinHeader1_27mm
+PinHeader_1x15_P1.27mm_Vertical
+Through hole straight pin header, 1x15, 1.27mm pitch, single row
+Through hole pin header THT 1x15 1.27mm single row
+0
+15
+15
+ConnectorPinHeader1_27mm
+PinHeader_1x15_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x15, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x15 1.27mm single row style1 pin1 left
+0
+15
+15
+ConnectorPinHeader1_27mm
+PinHeader_1x15_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x15, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x15 1.27mm single row style2 pin1 right
+0
+15
+15
+ConnectorPinHeader1_27mm
+PinHeader_1x16_P1.27mm_Horizontal
+Through hole angled pin header, 1x16, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x16 1.27mm single row
+0
+16
+16
+ConnectorPinHeader1_27mm
+PinHeader_1x16_P1.27mm_Vertical
+Through hole straight pin header, 1x16, 1.27mm pitch, single row
+Through hole pin header THT 1x16 1.27mm single row
+0
+16
+16
+ConnectorPinHeader1_27mm
+PinHeader_1x16_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x16, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x16 1.27mm single row style1 pin1 left
+0
+16
+16
+ConnectorPinHeader1_27mm
+PinHeader_1x16_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x16, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x16 1.27mm single row style2 pin1 right
+0
+16
+16
+ConnectorPinHeader1_27mm
+PinHeader_1x17_P1.27mm_Horizontal
+Through hole angled pin header, 1x17, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x17 1.27mm single row
+0
+17
+17
+ConnectorPinHeader1_27mm
+PinHeader_1x17_P1.27mm_Vertical
+Through hole straight pin header, 1x17, 1.27mm pitch, single row
+Through hole pin header THT 1x17 1.27mm single row
+0
+17
+17
+ConnectorPinHeader1_27mm
+PinHeader_1x17_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x17, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x17 1.27mm single row style1 pin1 left
+0
+17
+17
+ConnectorPinHeader1_27mm
+PinHeader_1x17_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x17, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x17 1.27mm single row style2 pin1 right
+0
+17
+17
+ConnectorPinHeader1_27mm
+PinHeader_1x18_P1.27mm_Horizontal
+Through hole angled pin header, 1x18, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x18 1.27mm single row
+0
+18
+18
+ConnectorPinHeader1_27mm
+PinHeader_1x18_P1.27mm_Vertical
+Through hole straight pin header, 1x18, 1.27mm pitch, single row
+Through hole pin header THT 1x18 1.27mm single row
+0
+18
+18
+ConnectorPinHeader1_27mm
+PinHeader_1x18_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x18, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x18 1.27mm single row style1 pin1 left
+0
+18
+18
+ConnectorPinHeader1_27mm
+PinHeader_1x18_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x18, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x18 1.27mm single row style2 pin1 right
+0
+18
+18
+ConnectorPinHeader1_27mm
+PinHeader_1x19_P1.27mm_Horizontal
+Through hole angled pin header, 1x19, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x19 1.27mm single row
+0
+19
+19
+ConnectorPinHeader1_27mm
+PinHeader_1x19_P1.27mm_Vertical
+Through hole straight pin header, 1x19, 1.27mm pitch, single row
+Through hole pin header THT 1x19 1.27mm single row
+0
+19
+19
+ConnectorPinHeader1_27mm
+PinHeader_1x19_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x19, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x19 1.27mm single row style1 pin1 left
+0
+19
+19
+ConnectorPinHeader1_27mm
+PinHeader_1x19_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x19, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x19 1.27mm single row style2 pin1 right
+0
+19
+19
+ConnectorPinHeader1_27mm
+PinHeader_1x20_P1.27mm_Horizontal
+Through hole angled pin header, 1x20, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x20 1.27mm single row
+0
+20
+20
+ConnectorPinHeader1_27mm
+PinHeader_1x20_P1.27mm_Vertical
+Through hole straight pin header, 1x20, 1.27mm pitch, single row
+Through hole pin header THT 1x20 1.27mm single row
+0
+20
+20
+ConnectorPinHeader1_27mm
+PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x20, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x20 1.27mm single row style1 pin1 left
+0
+20
+20
+ConnectorPinHeader1_27mm
+PinHeader_1x20_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x20, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x20 1.27mm single row style2 pin1 right
+0
+20
+20
+ConnectorPinHeader1_27mm
+PinHeader_1x21_P1.27mm_Horizontal
+Through hole angled pin header, 1x21, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x21 1.27mm single row
+0
+21
+21
+ConnectorPinHeader1_27mm
+PinHeader_1x21_P1.27mm_Vertical
+Through hole straight pin header, 1x21, 1.27mm pitch, single row
+Through hole pin header THT 1x21 1.27mm single row
+0
+21
+21
+ConnectorPinHeader1_27mm
+PinHeader_1x21_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x21, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x21 1.27mm single row style1 pin1 left
+0
+21
+21
+ConnectorPinHeader1_27mm
+PinHeader_1x21_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x21, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x21 1.27mm single row style2 pin1 right
+0
+21
+21
+ConnectorPinHeader1_27mm
+PinHeader_1x22_P1.27mm_Horizontal
+Through hole angled pin header, 1x22, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x22 1.27mm single row
+0
+22
+22
+ConnectorPinHeader1_27mm
+PinHeader_1x22_P1.27mm_Vertical
+Through hole straight pin header, 1x22, 1.27mm pitch, single row
+Through hole pin header THT 1x22 1.27mm single row
+0
+22
+22
+ConnectorPinHeader1_27mm
+PinHeader_1x22_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x22, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x22 1.27mm single row style1 pin1 left
+0
+22
+22
+ConnectorPinHeader1_27mm
+PinHeader_1x22_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x22, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x22 1.27mm single row style2 pin1 right
+0
+22
+22
+ConnectorPinHeader1_27mm
+PinHeader_1x23_P1.27mm_Horizontal
+Through hole angled pin header, 1x23, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x23 1.27mm single row
+0
+23
+23
+ConnectorPinHeader1_27mm
+PinHeader_1x23_P1.27mm_Vertical
+Through hole straight pin header, 1x23, 1.27mm pitch, single row
+Through hole pin header THT 1x23 1.27mm single row
+0
+23
+23
+ConnectorPinHeader1_27mm
+PinHeader_1x23_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x23, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x23 1.27mm single row style1 pin1 left
+0
+23
+23
+ConnectorPinHeader1_27mm
+PinHeader_1x23_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x23, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x23 1.27mm single row style2 pin1 right
+0
+23
+23
+ConnectorPinHeader1_27mm
+PinHeader_1x24_P1.27mm_Horizontal
+Through hole angled pin header, 1x24, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x24 1.27mm single row
+0
+24
+24
+ConnectorPinHeader1_27mm
+PinHeader_1x24_P1.27mm_Vertical
+Through hole straight pin header, 1x24, 1.27mm pitch, single row
+Through hole pin header THT 1x24 1.27mm single row
+0
+24
+24
+ConnectorPinHeader1_27mm
+PinHeader_1x24_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x24, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x24 1.27mm single row style1 pin1 left
+0
+24
+24
+ConnectorPinHeader1_27mm
+PinHeader_1x24_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x24, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x24 1.27mm single row style2 pin1 right
+0
+24
+24
+ConnectorPinHeader1_27mm
+PinHeader_1x25_P1.27mm_Horizontal
+Through hole angled pin header, 1x25, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x25 1.27mm single row
+0
+25
+25
+ConnectorPinHeader1_27mm
+PinHeader_1x25_P1.27mm_Vertical
+Through hole straight pin header, 1x25, 1.27mm pitch, single row
+Through hole pin header THT 1x25 1.27mm single row
+0
+25
+25
+ConnectorPinHeader1_27mm
+PinHeader_1x25_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x25, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x25 1.27mm single row style1 pin1 left
+0
+25
+25
+ConnectorPinHeader1_27mm
+PinHeader_1x25_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x25, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x25 1.27mm single row style2 pin1 right
+0
+25
+25
+ConnectorPinHeader1_27mm
+PinHeader_1x26_P1.27mm_Horizontal
+Through hole angled pin header, 1x26, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x26 1.27mm single row
+0
+26
+26
+ConnectorPinHeader1_27mm
+PinHeader_1x26_P1.27mm_Vertical
+Through hole straight pin header, 1x26, 1.27mm pitch, single row
+Through hole pin header THT 1x26 1.27mm single row
+0
+26
+26
+ConnectorPinHeader1_27mm
+PinHeader_1x26_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x26, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x26 1.27mm single row style1 pin1 left
+0
+26
+26
+ConnectorPinHeader1_27mm
+PinHeader_1x26_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x26, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x26 1.27mm single row style2 pin1 right
+0
+26
+26
+ConnectorPinHeader1_27mm
+PinHeader_1x27_P1.27mm_Horizontal
+Through hole angled pin header, 1x27, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x27 1.27mm single row
+0
+27
+27
+ConnectorPinHeader1_27mm
+PinHeader_1x27_P1.27mm_Vertical
+Through hole straight pin header, 1x27, 1.27mm pitch, single row
+Through hole pin header THT 1x27 1.27mm single row
+0
+27
+27
+ConnectorPinHeader1_27mm
+PinHeader_1x27_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x27, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x27 1.27mm single row style1 pin1 left
+0
+27
+27
+ConnectorPinHeader1_27mm
+PinHeader_1x27_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x27, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x27 1.27mm single row style2 pin1 right
+0
+27
+27
+ConnectorPinHeader1_27mm
+PinHeader_1x28_P1.27mm_Horizontal
+Through hole angled pin header, 1x28, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x28 1.27mm single row
+0
+28
+28
+ConnectorPinHeader1_27mm
+PinHeader_1x28_P1.27mm_Vertical
+Through hole straight pin header, 1x28, 1.27mm pitch, single row
+Through hole pin header THT 1x28 1.27mm single row
+0
+28
+28
+ConnectorPinHeader1_27mm
+PinHeader_1x28_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x28, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x28 1.27mm single row style1 pin1 left
+0
+28
+28
+ConnectorPinHeader1_27mm
+PinHeader_1x28_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x28, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x28 1.27mm single row style2 pin1 right
+0
+28
+28
+ConnectorPinHeader1_27mm
+PinHeader_1x29_P1.27mm_Horizontal
+Through hole angled pin header, 1x29, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x29 1.27mm single row
+0
+29
+29
+ConnectorPinHeader1_27mm
+PinHeader_1x29_P1.27mm_Vertical
+Through hole straight pin header, 1x29, 1.27mm pitch, single row
+Through hole pin header THT 1x29 1.27mm single row
+0
+29
+29
+ConnectorPinHeader1_27mm
+PinHeader_1x29_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x29, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x29 1.27mm single row style1 pin1 left
+0
+29
+29
+ConnectorPinHeader1_27mm
+PinHeader_1x29_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x29, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x29 1.27mm single row style2 pin1 right
+0
+29
+29
+ConnectorPinHeader1_27mm
+PinHeader_1x30_P1.27mm_Horizontal
+Through hole angled pin header, 1x30, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x30 1.27mm single row
+0
+30
+30
+ConnectorPinHeader1_27mm
+PinHeader_1x30_P1.27mm_Vertical
+Through hole straight pin header, 1x30, 1.27mm pitch, single row
+Through hole pin header THT 1x30 1.27mm single row
+0
+30
+30
+ConnectorPinHeader1_27mm
+PinHeader_1x30_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x30, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x30 1.27mm single row style1 pin1 left
+0
+30
+30
+ConnectorPinHeader1_27mm
+PinHeader_1x30_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x30, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x30 1.27mm single row style2 pin1 right
+0
+30
+30
+ConnectorPinHeader1_27mm
+PinHeader_1x31_P1.27mm_Horizontal
+Through hole angled pin header, 1x31, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x31 1.27mm single row
+0
+31
+31
+ConnectorPinHeader1_27mm
+PinHeader_1x31_P1.27mm_Vertical
+Through hole straight pin header, 1x31, 1.27mm pitch, single row
+Through hole pin header THT 1x31 1.27mm single row
+0
+31
+31
+ConnectorPinHeader1_27mm
+PinHeader_1x31_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x31, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x31 1.27mm single row style1 pin1 left
+0
+31
+31
+ConnectorPinHeader1_27mm
+PinHeader_1x31_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x31, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x31 1.27mm single row style2 pin1 right
+0
+31
+31
+ConnectorPinHeader1_27mm
+PinHeader_1x32_P1.27mm_Horizontal
+Through hole angled pin header, 1x32, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x32 1.27mm single row
+0
+32
+32
+ConnectorPinHeader1_27mm
+PinHeader_1x32_P1.27mm_Vertical
+Through hole straight pin header, 1x32, 1.27mm pitch, single row
+Through hole pin header THT 1x32 1.27mm single row
+0
+32
+32
+ConnectorPinHeader1_27mm
+PinHeader_1x32_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x32, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x32 1.27mm single row style1 pin1 left
+0
+32
+32
+ConnectorPinHeader1_27mm
+PinHeader_1x32_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x32, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x32 1.27mm single row style2 pin1 right
+0
+32
+32
+ConnectorPinHeader1_27mm
+PinHeader_1x33_P1.27mm_Horizontal
+Through hole angled pin header, 1x33, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x33 1.27mm single row
+0
+33
+33
+ConnectorPinHeader1_27mm
+PinHeader_1x33_P1.27mm_Vertical
+Through hole straight pin header, 1x33, 1.27mm pitch, single row
+Through hole pin header THT 1x33 1.27mm single row
+0
+33
+33
+ConnectorPinHeader1_27mm
+PinHeader_1x33_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x33, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x33 1.27mm single row style1 pin1 left
+0
+33
+33
+ConnectorPinHeader1_27mm
+PinHeader_1x33_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x33, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x33 1.27mm single row style2 pin1 right
+0
+33
+33
+ConnectorPinHeader1_27mm
+PinHeader_1x34_P1.27mm_Horizontal
+Through hole angled pin header, 1x34, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x34 1.27mm single row
+0
+34
+34
+ConnectorPinHeader1_27mm
+PinHeader_1x34_P1.27mm_Vertical
+Through hole straight pin header, 1x34, 1.27mm pitch, single row
+Through hole pin header THT 1x34 1.27mm single row
+0
+34
+34
+ConnectorPinHeader1_27mm
+PinHeader_1x34_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x34, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x34 1.27mm single row style1 pin1 left
+0
+34
+34
+ConnectorPinHeader1_27mm
+PinHeader_1x34_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x34, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x34 1.27mm single row style2 pin1 right
+0
+34
+34
+ConnectorPinHeader1_27mm
+PinHeader_1x35_P1.27mm_Horizontal
+Through hole angled pin header, 1x35, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x35 1.27mm single row
+0
+35
+35
+ConnectorPinHeader1_27mm
+PinHeader_1x35_P1.27mm_Vertical
+Through hole straight pin header, 1x35, 1.27mm pitch, single row
+Through hole pin header THT 1x35 1.27mm single row
+0
+35
+35
+ConnectorPinHeader1_27mm
+PinHeader_1x35_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x35, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x35 1.27mm single row style1 pin1 left
+0
+35
+35
+ConnectorPinHeader1_27mm
+PinHeader_1x35_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x35, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x35 1.27mm single row style2 pin1 right
+0
+35
+35
+ConnectorPinHeader1_27mm
+PinHeader_1x36_P1.27mm_Horizontal
+Through hole angled pin header, 1x36, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x36 1.27mm single row
+0
+36
+36
+ConnectorPinHeader1_27mm
+PinHeader_1x36_P1.27mm_Vertical
+Through hole straight pin header, 1x36, 1.27mm pitch, single row
+Through hole pin header THT 1x36 1.27mm single row
+0
+36
+36
+ConnectorPinHeader1_27mm
+PinHeader_1x36_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x36, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x36 1.27mm single row style1 pin1 left
+0
+36
+36
+ConnectorPinHeader1_27mm
+PinHeader_1x36_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x36, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x36 1.27mm single row style2 pin1 right
+0
+36
+36
+ConnectorPinHeader1_27mm
+PinHeader_1x37_P1.27mm_Horizontal
+Through hole angled pin header, 1x37, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x37 1.27mm single row
+0
+37
+37
+ConnectorPinHeader1_27mm
+PinHeader_1x37_P1.27mm_Vertical
+Through hole straight pin header, 1x37, 1.27mm pitch, single row
+Through hole pin header THT 1x37 1.27mm single row
+0
+37
+37
+ConnectorPinHeader1_27mm
+PinHeader_1x37_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x37, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x37 1.27mm single row style1 pin1 left
+0
+37
+37
+ConnectorPinHeader1_27mm
+PinHeader_1x37_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x37, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x37 1.27mm single row style2 pin1 right
+0
+37
+37
+ConnectorPinHeader1_27mm
+PinHeader_1x38_P1.27mm_Horizontal
+Through hole angled pin header, 1x38, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x38 1.27mm single row
+0
+38
+38
+ConnectorPinHeader1_27mm
+PinHeader_1x38_P1.27mm_Vertical
+Through hole straight pin header, 1x38, 1.27mm pitch, single row
+Through hole pin header THT 1x38 1.27mm single row
+0
+38
+38
+ConnectorPinHeader1_27mm
+PinHeader_1x38_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x38, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x38 1.27mm single row style1 pin1 left
+0
+38
+38
+ConnectorPinHeader1_27mm
+PinHeader_1x38_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x38, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x38 1.27mm single row style2 pin1 right
+0
+38
+38
+ConnectorPinHeader1_27mm
+PinHeader_1x39_P1.27mm_Horizontal
+Through hole angled pin header, 1x39, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x39 1.27mm single row
+0
+39
+39
+ConnectorPinHeader1_27mm
+PinHeader_1x39_P1.27mm_Vertical
+Through hole straight pin header, 1x39, 1.27mm pitch, single row
+Through hole pin header THT 1x39 1.27mm single row
+0
+39
+39
+ConnectorPinHeader1_27mm
+PinHeader_1x39_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x39, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x39 1.27mm single row style1 pin1 left
+0
+39
+39
+ConnectorPinHeader1_27mm
+PinHeader_1x39_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x39, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x39 1.27mm single row style2 pin1 right
+0
+39
+39
+ConnectorPinHeader1_27mm
+PinHeader_1x40_P1.27mm_Horizontal
+Through hole angled pin header, 1x40, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x40 1.27mm single row
+0
+40
+40
+ConnectorPinHeader1_27mm
+PinHeader_1x40_P1.27mm_Vertical
+Through hole straight pin header, 1x40, 1.27mm pitch, single row
+Through hole pin header THT 1x40 1.27mm single row
+0
+40
+40
+ConnectorPinHeader1_27mm
+PinHeader_1x40_P1.27mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x40, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x40 1.27mm single row style1 pin1 left
+0
+40
+40
+ConnectorPinHeader1_27mm
+PinHeader_1x40_P1.27mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x40, 1.27mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x40 1.27mm single row style2 pin1 right
+0
+40
+40
+ConnectorPinHeader1_27mm
+PinHeader_2x01_P1.27mm_Horizontal
+Through hole angled pin header, 2x01, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x01 1.27mm double row
+0
+2
+2
+ConnectorPinHeader1_27mm
+PinHeader_2x01_P1.27mm_Vertical
+Through hole straight pin header, 2x01, 1.27mm pitch, double rows
+Through hole pin header THT 2x01 1.27mm double row
+0
+2
+2
+ConnectorPinHeader1_27mm
+PinHeader_2x01_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x01, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x01 1.27mm double row
+0
+2
+2
+ConnectorPinHeader1_27mm
+PinHeader_2x02_P1.27mm_Horizontal
+Through hole angled pin header, 2x02, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x02 1.27mm double row
+0
+4
+4
+ConnectorPinHeader1_27mm
+PinHeader_2x02_P1.27mm_Vertical
+Through hole straight pin header, 2x02, 1.27mm pitch, double rows
+Through hole pin header THT 2x02 1.27mm double row
+0
+4
+4
+ConnectorPinHeader1_27mm
+PinHeader_2x02_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x02, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x02 1.27mm double row
+0
+4
+4
+ConnectorPinHeader1_27mm
+PinHeader_2x03_P1.27mm_Horizontal
+Through hole angled pin header, 2x03, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x03 1.27mm double row
+0
+6
+6
+ConnectorPinHeader1_27mm
+PinHeader_2x03_P1.27mm_Vertical
+Through hole straight pin header, 2x03, 1.27mm pitch, double rows
+Through hole pin header THT 2x03 1.27mm double row
+0
+6
+6
+ConnectorPinHeader1_27mm
+PinHeader_2x03_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x03, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x03 1.27mm double row
+0
+6
+6
+ConnectorPinHeader1_27mm
+PinHeader_2x04_P1.27mm_Horizontal
+Through hole angled pin header, 2x04, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x04 1.27mm double row
+0
+8
+8
+ConnectorPinHeader1_27mm
+PinHeader_2x04_P1.27mm_Vertical
+Through hole straight pin header, 2x04, 1.27mm pitch, double rows
+Through hole pin header THT 2x04 1.27mm double row
+0
+8
+8
+ConnectorPinHeader1_27mm
+PinHeader_2x04_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x04, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x04 1.27mm double row
+0
+8
+8
+ConnectorPinHeader1_27mm
+PinHeader_2x05_P1.27mm_Horizontal
+Through hole angled pin header, 2x05, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x05 1.27mm double row
+0
+10
+10
+ConnectorPinHeader1_27mm
+PinHeader_2x05_P1.27mm_Vertical
+Through hole straight pin header, 2x05, 1.27mm pitch, double rows
+Through hole pin header THT 2x05 1.27mm double row
+0
+10
+10
+ConnectorPinHeader1_27mm
+PinHeader_2x05_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x05, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x05 1.27mm double row
+0
+10
+10
+ConnectorPinHeader1_27mm
+PinHeader_2x06_P1.27mm_Horizontal
+Through hole angled pin header, 2x06, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x06 1.27mm double row
+0
+12
+12
+ConnectorPinHeader1_27mm
+PinHeader_2x06_P1.27mm_Vertical
+Through hole straight pin header, 2x06, 1.27mm pitch, double rows
+Through hole pin header THT 2x06 1.27mm double row
+0
+12
+12
+ConnectorPinHeader1_27mm
+PinHeader_2x06_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x06, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x06 1.27mm double row
+0
+12
+12
+ConnectorPinHeader1_27mm
+PinHeader_2x07_P1.27mm_Horizontal
+Through hole angled pin header, 2x07, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x07 1.27mm double row
+0
+14
+14
+ConnectorPinHeader1_27mm
+PinHeader_2x07_P1.27mm_Vertical
+Through hole straight pin header, 2x07, 1.27mm pitch, double rows
+Through hole pin header THT 2x07 1.27mm double row
+0
+14
+14
+ConnectorPinHeader1_27mm
+PinHeader_2x07_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x07, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x07 1.27mm double row
+0
+14
+14
+ConnectorPinHeader1_27mm
+PinHeader_2x08_P1.27mm_Horizontal
+Through hole angled pin header, 2x08, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x08 1.27mm double row
+0
+16
+16
+ConnectorPinHeader1_27mm
+PinHeader_2x08_P1.27mm_Vertical
+Through hole straight pin header, 2x08, 1.27mm pitch, double rows
+Through hole pin header THT 2x08 1.27mm double row
+0
+16
+16
+ConnectorPinHeader1_27mm
+PinHeader_2x08_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x08, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x08 1.27mm double row
+0
+16
+16
+ConnectorPinHeader1_27mm
+PinHeader_2x09_P1.27mm_Horizontal
+Through hole angled pin header, 2x09, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x09 1.27mm double row
+0
+18
+18
+ConnectorPinHeader1_27mm
+PinHeader_2x09_P1.27mm_Vertical
+Through hole straight pin header, 2x09, 1.27mm pitch, double rows
+Through hole pin header THT 2x09 1.27mm double row
+0
+18
+18
+ConnectorPinHeader1_27mm
+PinHeader_2x09_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x09, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x09 1.27mm double row
+0
+18
+18
+ConnectorPinHeader1_27mm
+PinHeader_2x10_P1.27mm_Horizontal
+Through hole angled pin header, 2x10, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x10 1.27mm double row
+0
+20
+20
+ConnectorPinHeader1_27mm
+PinHeader_2x10_P1.27mm_Vertical
+Through hole straight pin header, 2x10, 1.27mm pitch, double rows
+Through hole pin header THT 2x10 1.27mm double row
+0
+20
+20
+ConnectorPinHeader1_27mm
+PinHeader_2x10_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x10, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x10 1.27mm double row
+0
+20
+20
+ConnectorPinHeader1_27mm
+PinHeader_2x11_P1.27mm_Horizontal
+Through hole angled pin header, 2x11, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x11 1.27mm double row
+0
+22
+22
+ConnectorPinHeader1_27mm
+PinHeader_2x11_P1.27mm_Vertical
+Through hole straight pin header, 2x11, 1.27mm pitch, double rows
+Through hole pin header THT 2x11 1.27mm double row
+0
+22
+22
+ConnectorPinHeader1_27mm
+PinHeader_2x11_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x11, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x11 1.27mm double row
+0
+22
+22
+ConnectorPinHeader1_27mm
+PinHeader_2x12_P1.27mm_Horizontal
+Through hole angled pin header, 2x12, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x12 1.27mm double row
+0
+24
+24
+ConnectorPinHeader1_27mm
+PinHeader_2x12_P1.27mm_Vertical
+Through hole straight pin header, 2x12, 1.27mm pitch, double rows
+Through hole pin header THT 2x12 1.27mm double row
+0
+24
+24
+ConnectorPinHeader1_27mm
+PinHeader_2x12_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x12, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x12 1.27mm double row
+0
+24
+24
+ConnectorPinHeader1_27mm
+PinHeader_2x13_P1.27mm_Horizontal
+Through hole angled pin header, 2x13, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x13 1.27mm double row
+0
+26
+26
+ConnectorPinHeader1_27mm
+PinHeader_2x13_P1.27mm_Vertical
+Through hole straight pin header, 2x13, 1.27mm pitch, double rows
+Through hole pin header THT 2x13 1.27mm double row
+0
+26
+26
+ConnectorPinHeader1_27mm
+PinHeader_2x13_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x13, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x13 1.27mm double row
+0
+26
+26
+ConnectorPinHeader1_27mm
+PinHeader_2x14_P1.27mm_Horizontal
+Through hole angled pin header, 2x14, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x14 1.27mm double row
+0
+28
+28
+ConnectorPinHeader1_27mm
+PinHeader_2x14_P1.27mm_Vertical
+Through hole straight pin header, 2x14, 1.27mm pitch, double rows
+Through hole pin header THT 2x14 1.27mm double row
+0
+28
+28
+ConnectorPinHeader1_27mm
+PinHeader_2x14_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x14, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x14 1.27mm double row
+0
+28
+28
+ConnectorPinHeader1_27mm
+PinHeader_2x15_P1.27mm_Horizontal
+Through hole angled pin header, 2x15, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x15 1.27mm double row
+0
+30
+30
+ConnectorPinHeader1_27mm
+PinHeader_2x15_P1.27mm_Vertical
+Through hole straight pin header, 2x15, 1.27mm pitch, double rows
+Through hole pin header THT 2x15 1.27mm double row
+0
+30
+30
+ConnectorPinHeader1_27mm
+PinHeader_2x15_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x15, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x15 1.27mm double row
+0
+30
+30
+ConnectorPinHeader1_27mm
+PinHeader_2x16_P1.27mm_Horizontal
+Through hole angled pin header, 2x16, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x16 1.27mm double row
+0
+32
+32
+ConnectorPinHeader1_27mm
+PinHeader_2x16_P1.27mm_Vertical
+Through hole straight pin header, 2x16, 1.27mm pitch, double rows
+Through hole pin header THT 2x16 1.27mm double row
+0
+32
+32
+ConnectorPinHeader1_27mm
+PinHeader_2x16_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x16, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x16 1.27mm double row
+0
+32
+32
+ConnectorPinHeader1_27mm
+PinHeader_2x17_P1.27mm_Horizontal
+Through hole angled pin header, 2x17, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x17 1.27mm double row
+0
+34
+34
+ConnectorPinHeader1_27mm
+PinHeader_2x17_P1.27mm_Vertical
+Through hole straight pin header, 2x17, 1.27mm pitch, double rows
+Through hole pin header THT 2x17 1.27mm double row
+0
+34
+34
+ConnectorPinHeader1_27mm
+PinHeader_2x17_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x17, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x17 1.27mm double row
+0
+34
+34
+ConnectorPinHeader1_27mm
+PinHeader_2x18_P1.27mm_Horizontal
+Through hole angled pin header, 2x18, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x18 1.27mm double row
+0
+36
+36
+ConnectorPinHeader1_27mm
+PinHeader_2x18_P1.27mm_Vertical
+Through hole straight pin header, 2x18, 1.27mm pitch, double rows
+Through hole pin header THT 2x18 1.27mm double row
+0
+36
+36
+ConnectorPinHeader1_27mm
+PinHeader_2x18_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x18, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x18 1.27mm double row
+0
+36
+36
+ConnectorPinHeader1_27mm
+PinHeader_2x19_P1.27mm_Horizontal
+Through hole angled pin header, 2x19, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x19 1.27mm double row
+0
+38
+38
+ConnectorPinHeader1_27mm
+PinHeader_2x19_P1.27mm_Vertical
+Through hole straight pin header, 2x19, 1.27mm pitch, double rows
+Through hole pin header THT 2x19 1.27mm double row
+0
+38
+38
+ConnectorPinHeader1_27mm
+PinHeader_2x19_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x19, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x19 1.27mm double row
+0
+38
+38
+ConnectorPinHeader1_27mm
+PinHeader_2x20_P1.27mm_Horizontal
+Through hole angled pin header, 2x20, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x20 1.27mm double row
+0
+40
+40
+ConnectorPinHeader1_27mm
+PinHeader_2x20_P1.27mm_Vertical
+Through hole straight pin header, 2x20, 1.27mm pitch, double rows
+Through hole pin header THT 2x20 1.27mm double row
+0
+40
+40
+ConnectorPinHeader1_27mm
+PinHeader_2x20_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x20, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x20 1.27mm double row
+0
+40
+40
+ConnectorPinHeader1_27mm
+PinHeader_2x21_P1.27mm_Horizontal
+Through hole angled pin header, 2x21, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x21 1.27mm double row
+0
+42
+42
+ConnectorPinHeader1_27mm
+PinHeader_2x21_P1.27mm_Vertical
+Through hole straight pin header, 2x21, 1.27mm pitch, double rows
+Through hole pin header THT 2x21 1.27mm double row
+0
+42
+42
+ConnectorPinHeader1_27mm
+PinHeader_2x21_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x21, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x21 1.27mm double row
+0
+42
+42
+ConnectorPinHeader1_27mm
+PinHeader_2x22_P1.27mm_Horizontal
+Through hole angled pin header, 2x22, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x22 1.27mm double row
+0
+44
+44
+ConnectorPinHeader1_27mm
+PinHeader_2x22_P1.27mm_Vertical
+Through hole straight pin header, 2x22, 1.27mm pitch, double rows
+Through hole pin header THT 2x22 1.27mm double row
+0
+44
+44
+ConnectorPinHeader1_27mm
+PinHeader_2x22_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x22, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x22 1.27mm double row
+0
+44
+44
+ConnectorPinHeader1_27mm
+PinHeader_2x23_P1.27mm_Horizontal
+Through hole angled pin header, 2x23, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x23 1.27mm double row
+0
+46
+46
+ConnectorPinHeader1_27mm
+PinHeader_2x23_P1.27mm_Vertical
+Through hole straight pin header, 2x23, 1.27mm pitch, double rows
+Through hole pin header THT 2x23 1.27mm double row
+0
+46
+46
+ConnectorPinHeader1_27mm
+PinHeader_2x23_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x23, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x23 1.27mm double row
+0
+46
+46
+ConnectorPinHeader1_27mm
+PinHeader_2x24_P1.27mm_Horizontal
+Through hole angled pin header, 2x24, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x24 1.27mm double row
+0
+48
+48
+ConnectorPinHeader1_27mm
+PinHeader_2x24_P1.27mm_Vertical
+Through hole straight pin header, 2x24, 1.27mm pitch, double rows
+Through hole pin header THT 2x24 1.27mm double row
+0
+48
+48
+ConnectorPinHeader1_27mm
+PinHeader_2x24_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x24, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x24 1.27mm double row
+0
+48
+48
+ConnectorPinHeader1_27mm
+PinHeader_2x25_P1.27mm_Horizontal
+Through hole angled pin header, 2x25, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x25 1.27mm double row
+0
+50
+50
+ConnectorPinHeader1_27mm
+PinHeader_2x25_P1.27mm_Vertical
+Through hole straight pin header, 2x25, 1.27mm pitch, double rows
+Through hole pin header THT 2x25 1.27mm double row
+0
+50
+50
+ConnectorPinHeader1_27mm
+PinHeader_2x25_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x25, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x25 1.27mm double row
+0
+50
+50
+ConnectorPinHeader1_27mm
+PinHeader_2x26_P1.27mm_Horizontal
+Through hole angled pin header, 2x26, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x26 1.27mm double row
+0
+52
+52
+ConnectorPinHeader1_27mm
+PinHeader_2x26_P1.27mm_Vertical
+Through hole straight pin header, 2x26, 1.27mm pitch, double rows
+Through hole pin header THT 2x26 1.27mm double row
+0
+52
+52
+ConnectorPinHeader1_27mm
+PinHeader_2x26_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x26, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x26 1.27mm double row
+0
+52
+52
+ConnectorPinHeader1_27mm
+PinHeader_2x27_P1.27mm_Horizontal
+Through hole angled pin header, 2x27, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x27 1.27mm double row
+0
+54
+54
+ConnectorPinHeader1_27mm
+PinHeader_2x27_P1.27mm_Vertical
+Through hole straight pin header, 2x27, 1.27mm pitch, double rows
+Through hole pin header THT 2x27 1.27mm double row
+0
+54
+54
+ConnectorPinHeader1_27mm
+PinHeader_2x27_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x27, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x27 1.27mm double row
+0
+54
+54
+ConnectorPinHeader1_27mm
+PinHeader_2x28_P1.27mm_Horizontal
+Through hole angled pin header, 2x28, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x28 1.27mm double row
+0
+56
+56
+ConnectorPinHeader1_27mm
+PinHeader_2x28_P1.27mm_Vertical
+Through hole straight pin header, 2x28, 1.27mm pitch, double rows
+Through hole pin header THT 2x28 1.27mm double row
+0
+56
+56
+ConnectorPinHeader1_27mm
+PinHeader_2x28_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x28, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x28 1.27mm double row
+0
+56
+56
+ConnectorPinHeader1_27mm
+PinHeader_2x29_P1.27mm_Horizontal
+Through hole angled pin header, 2x29, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x29 1.27mm double row
+0
+58
+58
+ConnectorPinHeader1_27mm
+PinHeader_2x29_P1.27mm_Vertical
+Through hole straight pin header, 2x29, 1.27mm pitch, double rows
+Through hole pin header THT 2x29 1.27mm double row
+0
+58
+58
+ConnectorPinHeader1_27mm
+PinHeader_2x29_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x29, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x29 1.27mm double row
+0
+58
+58
+ConnectorPinHeader1_27mm
+PinHeader_2x30_P1.27mm_Horizontal
+Through hole angled pin header, 2x30, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x30 1.27mm double row
+0
+60
+60
+ConnectorPinHeader1_27mm
+PinHeader_2x30_P1.27mm_Vertical
+Through hole straight pin header, 2x30, 1.27mm pitch, double rows
+Through hole pin header THT 2x30 1.27mm double row
+0
+60
+60
+ConnectorPinHeader1_27mm
+PinHeader_2x30_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x30, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x30 1.27mm double row
+0
+60
+60
+ConnectorPinHeader1_27mm
+PinHeader_2x31_P1.27mm_Horizontal
+Through hole angled pin header, 2x31, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x31 1.27mm double row
+0
+62
+62
+ConnectorPinHeader1_27mm
+PinHeader_2x31_P1.27mm_Vertical
+Through hole straight pin header, 2x31, 1.27mm pitch, double rows
+Through hole pin header THT 2x31 1.27mm double row
+0
+62
+62
+ConnectorPinHeader1_27mm
+PinHeader_2x31_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x31, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x31 1.27mm double row
+0
+62
+62
+ConnectorPinHeader1_27mm
+PinHeader_2x32_P1.27mm_Horizontal
+Through hole angled pin header, 2x32, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x32 1.27mm double row
+0
+64
+64
+ConnectorPinHeader1_27mm
+PinHeader_2x32_P1.27mm_Vertical
+Through hole straight pin header, 2x32, 1.27mm pitch, double rows
+Through hole pin header THT 2x32 1.27mm double row
+0
+64
+64
+ConnectorPinHeader1_27mm
+PinHeader_2x32_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x32, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x32 1.27mm double row
+0
+64
+64
+ConnectorPinHeader1_27mm
+PinHeader_2x33_P1.27mm_Horizontal
+Through hole angled pin header, 2x33, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x33 1.27mm double row
+0
+66
+66
+ConnectorPinHeader1_27mm
+PinHeader_2x33_P1.27mm_Vertical
+Through hole straight pin header, 2x33, 1.27mm pitch, double rows
+Through hole pin header THT 2x33 1.27mm double row
+0
+66
+66
+ConnectorPinHeader1_27mm
+PinHeader_2x33_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x33, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x33 1.27mm double row
+0
+66
+66
+ConnectorPinHeader1_27mm
+PinHeader_2x34_P1.27mm_Horizontal
+Through hole angled pin header, 2x34, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x34 1.27mm double row
+0
+68
+68
+ConnectorPinHeader1_27mm
+PinHeader_2x34_P1.27mm_Vertical
+Through hole straight pin header, 2x34, 1.27mm pitch, double rows
+Through hole pin header THT 2x34 1.27mm double row
+0
+68
+68
+ConnectorPinHeader1_27mm
+PinHeader_2x34_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x34, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x34 1.27mm double row
+0
+68
+68
+ConnectorPinHeader1_27mm
+PinHeader_2x35_P1.27mm_Horizontal
+Through hole angled pin header, 2x35, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x35 1.27mm double row
+0
+70
+70
+ConnectorPinHeader1_27mm
+PinHeader_2x35_P1.27mm_Vertical
+Through hole straight pin header, 2x35, 1.27mm pitch, double rows
+Through hole pin header THT 2x35 1.27mm double row
+0
+70
+70
+ConnectorPinHeader1_27mm
+PinHeader_2x35_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x35, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x35 1.27mm double row
+0
+70
+70
+ConnectorPinHeader1_27mm
+PinHeader_2x36_P1.27mm_Horizontal
+Through hole angled pin header, 2x36, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x36 1.27mm double row
+0
+72
+72
+ConnectorPinHeader1_27mm
+PinHeader_2x36_P1.27mm_Vertical
+Through hole straight pin header, 2x36, 1.27mm pitch, double rows
+Through hole pin header THT 2x36 1.27mm double row
+0
+72
+72
+ConnectorPinHeader1_27mm
+PinHeader_2x36_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x36, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x36 1.27mm double row
+0
+72
+72
+ConnectorPinHeader1_27mm
+PinHeader_2x37_P1.27mm_Horizontal
+Through hole angled pin header, 2x37, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x37 1.27mm double row
+0
+74
+74
+ConnectorPinHeader1_27mm
+PinHeader_2x37_P1.27mm_Vertical
+Through hole straight pin header, 2x37, 1.27mm pitch, double rows
+Through hole pin header THT 2x37 1.27mm double row
+0
+74
+74
+ConnectorPinHeader1_27mm
+PinHeader_2x37_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x37, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x37 1.27mm double row
+0
+74
+74
+ConnectorPinHeader1_27mm
+PinHeader_2x38_P1.27mm_Horizontal
+Through hole angled pin header, 2x38, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x38 1.27mm double row
+0
+76
+76
+ConnectorPinHeader1_27mm
+PinHeader_2x38_P1.27mm_Vertical
+Through hole straight pin header, 2x38, 1.27mm pitch, double rows
+Through hole pin header THT 2x38 1.27mm double row
+0
+76
+76
+ConnectorPinHeader1_27mm
+PinHeader_2x38_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x38, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x38 1.27mm double row
+0
+76
+76
+ConnectorPinHeader1_27mm
+PinHeader_2x39_P1.27mm_Horizontal
+Through hole angled pin header, 2x39, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x39 1.27mm double row
+0
+78
+78
+ConnectorPinHeader1_27mm
+PinHeader_2x39_P1.27mm_Vertical
+Through hole straight pin header, 2x39, 1.27mm pitch, double rows
+Through hole pin header THT 2x39 1.27mm double row
+0
+78
+78
+ConnectorPinHeader1_27mm
+PinHeader_2x39_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x39, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x39 1.27mm double row
+0
+78
+78
+ConnectorPinHeader1_27mm
+PinHeader_2x40_P1.27mm_Horizontal
+Through hole angled pin header, 2x40, 1.27mm pitch, 4.0mm pin length, double rows
+Through hole angled pin header THT 2x40 1.27mm double row
+0
+80
+80
+ConnectorPinHeader1_27mm
+PinHeader_2x40_P1.27mm_Vertical
+Through hole straight pin header, 2x40, 1.27mm pitch, double rows
+Through hole pin header THT 2x40 1.27mm double row
+0
+80
+80
+ConnectorPinHeader1_27mm
+PinHeader_2x40_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x40, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x40 1.27mm double row
+0
+80
+80
+ConnectorPinHeader2_54mm
+PinHeader_1x01_P2.54mm_Horizontal
+Through hole angled pin header, 1x01, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x01 2.54mm single row
+0
+1
+1
+ConnectorPinHeader2_54mm
+PinHeader_1x01_P2.54mm_Vertical
+Through hole straight pin header, 1x01, 2.54mm pitch, single row
+Through hole pin header THT 1x01 2.54mm single row
+0
+1
+1
+ConnectorPinHeader2_54mm
+PinHeader_1x02_P2.54mm_Horizontal
+Through hole angled pin header, 1x02, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x02 2.54mm single row
+0
+2
+2
+ConnectorPinHeader2_54mm
+PinHeader_1x02_P2.54mm_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+ConnectorPinHeader2_54mm
+PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x02, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x02 2.54mm single row style1 pin1 left
+0
+2
+2
+ConnectorPinHeader2_54mm
+PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x02, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x02 2.54mm single row style2 pin1 right
+0
+2
+2
+ConnectorPinHeader2_54mm
+PinHeader_1x03_P2.54mm_Horizontal
+Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x03 2.54mm single row
+0
+3
+3
+ConnectorPinHeader2_54mm
+PinHeader_1x03_P2.54mm_Vertical
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+ConnectorPinHeader2_54mm
+PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x03, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x03 2.54mm single row style1 pin1 left
+0
+3
+3
+ConnectorPinHeader2_54mm
+PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x03, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x03 2.54mm single row style2 pin1 right
+0
+3
+3
+ConnectorPinHeader2_54mm
+PinHeader_1x04_P2.54mm_Horizontal
+Through hole angled pin header, 1x04, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x04 2.54mm single row
+0
+4
+4
+ConnectorPinHeader2_54mm
+PinHeader_1x04_P2.54mm_Vertical
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+ConnectorPinHeader2_54mm
+PinHeader_1x04_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x04, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x04 2.54mm single row style1 pin1 left
+0
+4
+4
+ConnectorPinHeader2_54mm
+PinHeader_1x04_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x04, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x04 2.54mm single row style2 pin1 right
+0
+4
+4
+ConnectorPinHeader2_54mm
+PinHeader_1x05_P2.54mm_Horizontal
+Through hole angled pin header, 1x05, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x05 2.54mm single row
+0
+5
+5
+ConnectorPinHeader2_54mm
+PinHeader_1x05_P2.54mm_Vertical
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+ConnectorPinHeader2_54mm
+PinHeader_1x05_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x05, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x05 2.54mm single row style1 pin1 left
+0
+5
+5
+ConnectorPinHeader2_54mm
+PinHeader_1x05_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x05, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x05 2.54mm single row style2 pin1 right
+0
+5
+5
+ConnectorPinHeader2_54mm
+PinHeader_1x06_P2.54mm_Horizontal
+Through hole angled pin header, 1x06, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x06 2.54mm single row
+0
+6
+6
+ConnectorPinHeader2_54mm
+PinHeader_1x06_P2.54mm_Vertical
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+ConnectorPinHeader2_54mm
+PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x06, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x06 2.54mm single row style1 pin1 left
+0
+6
+6
+ConnectorPinHeader2_54mm
+PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x06, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x06 2.54mm single row style2 pin1 right
+0
+6
+6
+ConnectorPinHeader2_54mm
+PinHeader_1x07_P2.54mm_Horizontal
+Through hole angled pin header, 1x07, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x07 2.54mm single row
+0
+7
+7
+ConnectorPinHeader2_54mm
+PinHeader_1x07_P2.54mm_Vertical
+Through hole straight pin header, 1x07, 2.54mm pitch, single row
+Through hole pin header THT 1x07 2.54mm single row
+0
+7
+7
+ConnectorPinHeader2_54mm
+PinHeader_1x07_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x07, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x07 2.54mm single row style1 pin1 left
+0
+7
+7
+ConnectorPinHeader2_54mm
+PinHeader_1x07_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x07, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x07 2.54mm single row style2 pin1 right
+0
+7
+7
+ConnectorPinHeader2_54mm
+PinHeader_1x08_P2.54mm_Horizontal
+Through hole angled pin header, 1x08, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x08 2.54mm single row
+0
+8
+8
+ConnectorPinHeader2_54mm
+PinHeader_1x08_P2.54mm_Vertical
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+ConnectorPinHeader2_54mm
+PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x08, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x08 2.54mm single row style1 pin1 left
+0
+8
+8
+ConnectorPinHeader2_54mm
+PinHeader_1x08_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x08, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x08 2.54mm single row style2 pin1 right
+0
+8
+8
+ConnectorPinHeader2_54mm
+PinHeader_1x09_P2.54mm_Horizontal
+Through hole angled pin header, 1x09, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x09 2.54mm single row
+0
+9
+9
+ConnectorPinHeader2_54mm
+PinHeader_1x09_P2.54mm_Vertical
+Through hole straight pin header, 1x09, 2.54mm pitch, single row
+Through hole pin header THT 1x09 2.54mm single row
+0
+9
+9
+ConnectorPinHeader2_54mm
+PinHeader_1x09_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x09, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x09 2.54mm single row style1 pin1 left
+0
+9
+9
+ConnectorPinHeader2_54mm
+PinHeader_1x09_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x09, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x09 2.54mm single row style2 pin1 right
+0
+9
+9
+ConnectorPinHeader2_54mm
+PinHeader_1x10_P2.54mm_Horizontal
+Through hole angled pin header, 1x10, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x10 2.54mm single row
+0
+10
+10
+ConnectorPinHeader2_54mm
+PinHeader_1x10_P2.54mm_Vertical
+Through hole straight pin header, 1x10, 2.54mm pitch, single row
+Through hole pin header THT 1x10 2.54mm single row
+0
+10
+10
+ConnectorPinHeader2_54mm
+PinHeader_1x10_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x10, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x10 2.54mm single row style1 pin1 left
+0
+10
+10
+ConnectorPinHeader2_54mm
+PinHeader_1x10_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x10, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x10 2.54mm single row style2 pin1 right
+0
+10
+10
+ConnectorPinHeader2_54mm
+PinHeader_1x11_P2.54mm_Horizontal
+Through hole angled pin header, 1x11, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x11 2.54mm single row
+0
+11
+11
+ConnectorPinHeader2_54mm
+PinHeader_1x11_P2.54mm_Vertical
+Through hole straight pin header, 1x11, 2.54mm pitch, single row
+Through hole pin header THT 1x11 2.54mm single row
+0
+11
+11
+ConnectorPinHeader2_54mm
+PinHeader_1x11_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x11, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x11 2.54mm single row style1 pin1 left
+0
+11
+11
+ConnectorPinHeader2_54mm
+PinHeader_1x11_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x11, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x11 2.54mm single row style2 pin1 right
+0
+11
+11
+ConnectorPinHeader2_54mm
+PinHeader_1x12_P2.54mm_Horizontal
+Through hole angled pin header, 1x12, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x12 2.54mm single row
+0
+12
+12
+ConnectorPinHeader2_54mm
+PinHeader_1x12_P2.54mm_Vertical
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+12
+12
+ConnectorPinHeader2_54mm
+PinHeader_1x12_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x12, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x12 2.54mm single row style1 pin1 left
+0
+12
+12
+ConnectorPinHeader2_54mm
+PinHeader_1x12_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x12, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x12 2.54mm single row style2 pin1 right
+0
+12
+12
+ConnectorPinHeader2_54mm
+PinHeader_1x13_P2.54mm_Horizontal
+Through hole angled pin header, 1x13, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x13 2.54mm single row
+0
+13
+13
+ConnectorPinHeader2_54mm
+PinHeader_1x13_P2.54mm_Vertical
+Through hole straight pin header, 1x13, 2.54mm pitch, single row
+Through hole pin header THT 1x13 2.54mm single row
+0
+13
+13
+ConnectorPinHeader2_54mm
+PinHeader_1x13_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x13, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x13 2.54mm single row style1 pin1 left
+0
+13
+13
+ConnectorPinHeader2_54mm
+PinHeader_1x13_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x13, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x13 2.54mm single row style2 pin1 right
+0
+13
+13
+ConnectorPinHeader2_54mm
+PinHeader_1x14_P2.54mm_Horizontal
+Through hole angled pin header, 1x14, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x14 2.54mm single row
+0
+14
+14
+ConnectorPinHeader2_54mm
+PinHeader_1x14_P2.54mm_Vertical
+Through hole straight pin header, 1x14, 2.54mm pitch, single row
+Through hole pin header THT 1x14 2.54mm single row
+0
+14
+14
+ConnectorPinHeader2_54mm
+PinHeader_1x14_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x14, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x14 2.54mm single row style1 pin1 left
+0
+14
+14
+ConnectorPinHeader2_54mm
+PinHeader_1x14_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x14, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x14 2.54mm single row style2 pin1 right
+0
+14
+14
+ConnectorPinHeader2_54mm
+PinHeader_1x15_P2.54mm_Horizontal
+Through hole angled pin header, 1x15, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x15 2.54mm single row
+0
+15
+15
+ConnectorPinHeader2_54mm
+PinHeader_1x15_P2.54mm_Vertical
+Through hole straight pin header, 1x15, 2.54mm pitch, single row
+Through hole pin header THT 1x15 2.54mm single row
+0
+15
+15
+ConnectorPinHeader2_54mm
+PinHeader_1x15_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x15, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x15 2.54mm single row style1 pin1 left
+0
+15
+15
+ConnectorPinHeader2_54mm
+PinHeader_1x15_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x15, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x15 2.54mm single row style2 pin1 right
+0
+15
+15
+ConnectorPinHeader2_54mm
+PinHeader_1x16_P2.54mm_Horizontal
+Through hole angled pin header, 1x16, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x16 2.54mm single row
+0
+16
+16
+ConnectorPinHeader2_54mm
+PinHeader_1x16_P2.54mm_Vertical
+Through hole straight pin header, 1x16, 2.54mm pitch, single row
+Through hole pin header THT 1x16 2.54mm single row
+0
+16
+16
+ConnectorPinHeader2_54mm
+PinHeader_1x16_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x16, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x16 2.54mm single row style1 pin1 left
+0
+16
+16
+ConnectorPinHeader2_54mm
+PinHeader_1x16_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x16, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x16 2.54mm single row style2 pin1 right
+0
+16
+16
+ConnectorPinHeader2_54mm
+PinHeader_1x17_P2.54mm_Horizontal
+Through hole angled pin header, 1x17, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x17 2.54mm single row
+0
+17
+17
+ConnectorPinHeader2_54mm
+PinHeader_1x17_P2.54mm_Vertical
+Through hole straight pin header, 1x17, 2.54mm pitch, single row
+Through hole pin header THT 1x17 2.54mm single row
+0
+17
+17
+ConnectorPinHeader2_54mm
+PinHeader_1x17_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x17, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x17 2.54mm single row style1 pin1 left
+0
+17
+17
+ConnectorPinHeader2_54mm
+PinHeader_1x17_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x17, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x17 2.54mm single row style2 pin1 right
+0
+17
+17
+ConnectorPinHeader2_54mm
+PinHeader_1x18_P2.54mm_Horizontal
+Through hole angled pin header, 1x18, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x18 2.54mm single row
+0
+18
+18
+ConnectorPinHeader2_54mm
+PinHeader_1x18_P2.54mm_Vertical
+Through hole straight pin header, 1x18, 2.54mm pitch, single row
+Through hole pin header THT 1x18 2.54mm single row
+0
+18
+18
+ConnectorPinHeader2_54mm
+PinHeader_1x18_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x18, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x18 2.54mm single row style1 pin1 left
+0
+18
+18
+ConnectorPinHeader2_54mm
+PinHeader_1x18_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x18, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x18 2.54mm single row style2 pin1 right
+0
+18
+18
+ConnectorPinHeader2_54mm
+PinHeader_1x19_P2.54mm_Horizontal
+Through hole angled pin header, 1x19, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x19 2.54mm single row
+0
+19
+19
+ConnectorPinHeader2_54mm
+PinHeader_1x19_P2.54mm_Vertical
+Through hole straight pin header, 1x19, 2.54mm pitch, single row
+Through hole pin header THT 1x19 2.54mm single row
+0
+19
+19
+ConnectorPinHeader2_54mm
+PinHeader_1x19_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x19, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x19 2.54mm single row style1 pin1 left
+0
+19
+19
+ConnectorPinHeader2_54mm
+PinHeader_1x19_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x19, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x19 2.54mm single row style2 pin1 right
+0
+19
+19
+ConnectorPinHeader2_54mm
+PinHeader_1x20_P2.54mm_Horizontal
+Through hole angled pin header, 1x20, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x20 2.54mm single row
+0
+20
+20
+ConnectorPinHeader2_54mm
+PinHeader_1x20_P2.54mm_Vertical
+Through hole straight pin header, 1x20, 2.54mm pitch, single row
+Through hole pin header THT 1x20 2.54mm single row
+0
+20
+20
+ConnectorPinHeader2_54mm
+PinHeader_1x20_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x20, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x20 2.54mm single row style1 pin1 left
+0
+20
+20
+ConnectorPinHeader2_54mm
+PinHeader_1x20_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x20, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x20 2.54mm single row style2 pin1 right
+0
+20
+20
+ConnectorPinHeader2_54mm
+PinHeader_1x21_P2.54mm_Horizontal
+Through hole angled pin header, 1x21, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x21 2.54mm single row
+0
+21
+21
+ConnectorPinHeader2_54mm
+PinHeader_1x21_P2.54mm_Vertical
+Through hole straight pin header, 1x21, 2.54mm pitch, single row
+Through hole pin header THT 1x21 2.54mm single row
+0
+21
+21
+ConnectorPinHeader2_54mm
+PinHeader_1x21_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x21, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x21 2.54mm single row style1 pin1 left
+0
+21
+21
+ConnectorPinHeader2_54mm
+PinHeader_1x21_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x21, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x21 2.54mm single row style2 pin1 right
+0
+21
+21
+ConnectorPinHeader2_54mm
+PinHeader_1x22_P2.54mm_Horizontal
+Through hole angled pin header, 1x22, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x22 2.54mm single row
+0
+22
+22
+ConnectorPinHeader2_54mm
+PinHeader_1x22_P2.54mm_Vertical
+Through hole straight pin header, 1x22, 2.54mm pitch, single row
+Through hole pin header THT 1x22 2.54mm single row
+0
+22
+22
+ConnectorPinHeader2_54mm
+PinHeader_1x22_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x22, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x22 2.54mm single row style1 pin1 left
+0
+22
+22
+ConnectorPinHeader2_54mm
+PinHeader_1x22_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x22, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x22 2.54mm single row style2 pin1 right
+0
+22
+22
+ConnectorPinHeader2_54mm
+PinHeader_1x23_P2.54mm_Horizontal
+Through hole angled pin header, 1x23, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x23 2.54mm single row
+0
+23
+23
+ConnectorPinHeader2_54mm
+PinHeader_1x23_P2.54mm_Vertical
+Through hole straight pin header, 1x23, 2.54mm pitch, single row
+Through hole pin header THT 1x23 2.54mm single row
+0
+23
+23
+ConnectorPinHeader2_54mm
+PinHeader_1x23_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x23, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x23 2.54mm single row style1 pin1 left
+0
+23
+23
+ConnectorPinHeader2_54mm
+PinHeader_1x23_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x23, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x23 2.54mm single row style2 pin1 right
+0
+23
+23
+ConnectorPinHeader2_54mm
+PinHeader_1x24_P2.54mm_Horizontal
+Through hole angled pin header, 1x24, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x24 2.54mm single row
+0
+24
+24
+ConnectorPinHeader2_54mm
+PinHeader_1x24_P2.54mm_Vertical
+Through hole straight pin header, 1x24, 2.54mm pitch, single row
+Through hole pin header THT 1x24 2.54mm single row
+0
+24
+24
+ConnectorPinHeader2_54mm
+PinHeader_1x24_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x24, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x24 2.54mm single row style1 pin1 left
+0
+24
+24
+ConnectorPinHeader2_54mm
+PinHeader_1x24_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x24, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x24 2.54mm single row style2 pin1 right
+0
+24
+24
+ConnectorPinHeader2_54mm
+PinHeader_1x25_P2.54mm_Horizontal
+Through hole angled pin header, 1x25, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x25 2.54mm single row
+0
+25
+25
+ConnectorPinHeader2_54mm
+PinHeader_1x25_P2.54mm_Vertical
+Through hole straight pin header, 1x25, 2.54mm pitch, single row
+Through hole pin header THT 1x25 2.54mm single row
+0
+25
+25
+ConnectorPinHeader2_54mm
+PinHeader_1x25_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x25, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x25 2.54mm single row style1 pin1 left
+0
+25
+25
+ConnectorPinHeader2_54mm
+PinHeader_1x25_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x25, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x25 2.54mm single row style2 pin1 right
+0
+25
+25
+ConnectorPinHeader2_54mm
+PinHeader_1x26_P2.54mm_Horizontal
+Through hole angled pin header, 1x26, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x26 2.54mm single row
+0
+26
+26
+ConnectorPinHeader2_54mm
+PinHeader_1x26_P2.54mm_Vertical
+Through hole straight pin header, 1x26, 2.54mm pitch, single row
+Through hole pin header THT 1x26 2.54mm single row
+0
+26
+26
+ConnectorPinHeader2_54mm
+PinHeader_1x26_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x26, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x26 2.54mm single row style1 pin1 left
+0
+26
+26
+ConnectorPinHeader2_54mm
+PinHeader_1x26_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x26, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x26 2.54mm single row style2 pin1 right
+0
+26
+26
+ConnectorPinHeader2_54mm
+PinHeader_1x27_P2.54mm_Horizontal
+Through hole angled pin header, 1x27, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x27 2.54mm single row
+0
+27
+27
+ConnectorPinHeader2_54mm
+PinHeader_1x27_P2.54mm_Vertical
+Through hole straight pin header, 1x27, 2.54mm pitch, single row
+Through hole pin header THT 1x27 2.54mm single row
+0
+27
+27
+ConnectorPinHeader2_54mm
+PinHeader_1x27_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x27, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x27 2.54mm single row style1 pin1 left
+0
+27
+27
+ConnectorPinHeader2_54mm
+PinHeader_1x27_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x27, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x27 2.54mm single row style2 pin1 right
+0
+27
+27
+ConnectorPinHeader2_54mm
+PinHeader_1x28_P2.54mm_Horizontal
+Through hole angled pin header, 1x28, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x28 2.54mm single row
+0
+28
+28
+ConnectorPinHeader2_54mm
+PinHeader_1x28_P2.54mm_Vertical
+Through hole straight pin header, 1x28, 2.54mm pitch, single row
+Through hole pin header THT 1x28 2.54mm single row
+0
+28
+28
+ConnectorPinHeader2_54mm
+PinHeader_1x28_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x28, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x28 2.54mm single row style1 pin1 left
+0
+28
+28
+ConnectorPinHeader2_54mm
+PinHeader_1x28_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x28, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x28 2.54mm single row style2 pin1 right
+0
+28
+28
+ConnectorPinHeader2_54mm
+PinHeader_1x29_P2.54mm_Horizontal
+Through hole angled pin header, 1x29, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x29 2.54mm single row
+0
+29
+29
+ConnectorPinHeader2_54mm
+PinHeader_1x29_P2.54mm_Vertical
+Through hole straight pin header, 1x29, 2.54mm pitch, single row
+Through hole pin header THT 1x29 2.54mm single row
+0
+29
+29
+ConnectorPinHeader2_54mm
+PinHeader_1x29_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x29, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x29 2.54mm single row style1 pin1 left
+0
+29
+29
+ConnectorPinHeader2_54mm
+PinHeader_1x29_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x29, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x29 2.54mm single row style2 pin1 right
+0
+29
+29
+ConnectorPinHeader2_54mm
+PinHeader_1x30_P2.54mm_Horizontal
+Through hole angled pin header, 1x30, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x30 2.54mm single row
+0
+30
+30
+ConnectorPinHeader2_54mm
+PinHeader_1x30_P2.54mm_Vertical
+Through hole straight pin header, 1x30, 2.54mm pitch, single row
+Through hole pin header THT 1x30 2.54mm single row
+0
+30
+30
+ConnectorPinHeader2_54mm
+PinHeader_1x30_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x30, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x30 2.54mm single row style1 pin1 left
+0
+30
+30
+ConnectorPinHeader2_54mm
+PinHeader_1x30_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x30, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x30 2.54mm single row style2 pin1 right
+0
+30
+30
+ConnectorPinHeader2_54mm
+PinHeader_1x31_P2.54mm_Horizontal
+Through hole angled pin header, 1x31, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x31 2.54mm single row
+0
+31
+31
+ConnectorPinHeader2_54mm
+PinHeader_1x31_P2.54mm_Vertical
+Through hole straight pin header, 1x31, 2.54mm pitch, single row
+Through hole pin header THT 1x31 2.54mm single row
+0
+31
+31
+ConnectorPinHeader2_54mm
+PinHeader_1x31_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x31, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x31 2.54mm single row style1 pin1 left
+0
+31
+31
+ConnectorPinHeader2_54mm
+PinHeader_1x31_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x31, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x31 2.54mm single row style2 pin1 right
+0
+31
+31
+ConnectorPinHeader2_54mm
+PinHeader_1x32_P2.54mm_Horizontal
+Through hole angled pin header, 1x32, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x32 2.54mm single row
+0
+32
+32
+ConnectorPinHeader2_54mm
+PinHeader_1x32_P2.54mm_Vertical
+Through hole straight pin header, 1x32, 2.54mm pitch, single row
+Through hole pin header THT 1x32 2.54mm single row
+0
+32
+32
+ConnectorPinHeader2_54mm
+PinHeader_1x32_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x32, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x32 2.54mm single row style1 pin1 left
+0
+32
+32
+ConnectorPinHeader2_54mm
+PinHeader_1x32_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x32, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x32 2.54mm single row style2 pin1 right
+0
+32
+32
+ConnectorPinHeader2_54mm
+PinHeader_1x33_P2.54mm_Horizontal
+Through hole angled pin header, 1x33, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x33 2.54mm single row
+0
+33
+33
+ConnectorPinHeader2_54mm
+PinHeader_1x33_P2.54mm_Vertical
+Through hole straight pin header, 1x33, 2.54mm pitch, single row
+Through hole pin header THT 1x33 2.54mm single row
+0
+33
+33
+ConnectorPinHeader2_54mm
+PinHeader_1x33_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x33, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x33 2.54mm single row style1 pin1 left
+0
+33
+33
+ConnectorPinHeader2_54mm
+PinHeader_1x33_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x33, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x33 2.54mm single row style2 pin1 right
+0
+33
+33
+ConnectorPinHeader2_54mm
+PinHeader_1x34_P2.54mm_Horizontal
+Through hole angled pin header, 1x34, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x34 2.54mm single row
+0
+34
+34
+ConnectorPinHeader2_54mm
+PinHeader_1x34_P2.54mm_Vertical
+Through hole straight pin header, 1x34, 2.54mm pitch, single row
+Through hole pin header THT 1x34 2.54mm single row
+0
+34
+34
+ConnectorPinHeader2_54mm
+PinHeader_1x34_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x34, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x34 2.54mm single row style1 pin1 left
+0
+34
+34
+ConnectorPinHeader2_54mm
+PinHeader_1x34_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x34, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x34 2.54mm single row style2 pin1 right
+0
+34
+34
+ConnectorPinHeader2_54mm
+PinHeader_1x35_P2.54mm_Horizontal
+Through hole angled pin header, 1x35, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x35 2.54mm single row
+0
+35
+35
+ConnectorPinHeader2_54mm
+PinHeader_1x35_P2.54mm_Vertical
+Through hole straight pin header, 1x35, 2.54mm pitch, single row
+Through hole pin header THT 1x35 2.54mm single row
+0
+35
+35
+ConnectorPinHeader2_54mm
+PinHeader_1x35_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x35, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x35 2.54mm single row style1 pin1 left
+0
+35
+35
+ConnectorPinHeader2_54mm
+PinHeader_1x35_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x35, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x35 2.54mm single row style2 pin1 right
+0
+35
+35
+ConnectorPinHeader2_54mm
+PinHeader_1x36_P2.54mm_Horizontal
+Through hole angled pin header, 1x36, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x36 2.54mm single row
+0
+36
+36
+ConnectorPinHeader2_54mm
+PinHeader_1x36_P2.54mm_Vertical
+Through hole straight pin header, 1x36, 2.54mm pitch, single row
+Through hole pin header THT 1x36 2.54mm single row
+0
+36
+36
+ConnectorPinHeader2_54mm
+PinHeader_1x36_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x36, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x36 2.54mm single row style1 pin1 left
+0
+36
+36
+ConnectorPinHeader2_54mm
+PinHeader_1x36_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x36, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x36 2.54mm single row style2 pin1 right
+0
+36
+36
+ConnectorPinHeader2_54mm
+PinHeader_1x37_P2.54mm_Horizontal
+Through hole angled pin header, 1x37, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x37 2.54mm single row
+0
+37
+37
+ConnectorPinHeader2_54mm
+PinHeader_1x37_P2.54mm_Vertical
+Through hole straight pin header, 1x37, 2.54mm pitch, single row
+Through hole pin header THT 1x37 2.54mm single row
+0
+37
+37
+ConnectorPinHeader2_54mm
+PinHeader_1x37_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x37, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x37 2.54mm single row style1 pin1 left
+0
+37
+37
+ConnectorPinHeader2_54mm
+PinHeader_1x37_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x37, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x37 2.54mm single row style2 pin1 right
+0
+37
+37
+ConnectorPinHeader2_54mm
+PinHeader_1x38_P2.54mm_Horizontal
+Through hole angled pin header, 1x38, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x38 2.54mm single row
+0
+38
+38
+ConnectorPinHeader2_54mm
+PinHeader_1x38_P2.54mm_Vertical
+Through hole straight pin header, 1x38, 2.54mm pitch, single row
+Through hole pin header THT 1x38 2.54mm single row
+0
+38
+38
+ConnectorPinHeader2_54mm
+PinHeader_1x38_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x38, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x38 2.54mm single row style1 pin1 left
+0
+38
+38
+ConnectorPinHeader2_54mm
+PinHeader_1x38_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x38, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x38 2.54mm single row style2 pin1 right
+0
+38
+38
+ConnectorPinHeader2_54mm
+PinHeader_1x39_P2.54mm_Horizontal
+Through hole angled pin header, 1x39, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x39 2.54mm single row
+0
+39
+39
+ConnectorPinHeader2_54mm
+PinHeader_1x39_P2.54mm_Vertical
+Through hole straight pin header, 1x39, 2.54mm pitch, single row
+Through hole pin header THT 1x39 2.54mm single row
+0
+39
+39
+ConnectorPinHeader2_54mm
+PinHeader_1x39_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x39, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x39 2.54mm single row style1 pin1 left
+0
+39
+39
+ConnectorPinHeader2_54mm
+PinHeader_1x39_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x39, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x39 2.54mm single row style2 pin1 right
+0
+39
+39
+ConnectorPinHeader2_54mm
+PinHeader_1x40_P2.54mm_Horizontal
+Through hole angled pin header, 1x40, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x40 2.54mm single row
+0
+40
+40
+ConnectorPinHeader2_54mm
+PinHeader_1x40_P2.54mm_Vertical
+Through hole straight pin header, 1x40, 2.54mm pitch, single row
+Through hole pin header THT 1x40 2.54mm single row
+0
+40
+40
+ConnectorPinHeader2_54mm
+PinHeader_1x40_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight pin header, 1x40, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x40 2.54mm single row style1 pin1 left
+0
+40
+40
+ConnectorPinHeader2_54mm
+PinHeader_1x40_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight pin header, 1x40, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x40 2.54mm single row style2 pin1 right
+0
+40
+40
+ConnectorPinHeader2_54mm
+PinHeader_2x01_P2.54mm_Horizontal
+Through hole angled pin header, 2x01, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x01 2.54mm double row
+0
+2
+2
+ConnectorPinHeader2_54mm
+PinHeader_2x01_P2.54mm_Vertical
+Through hole straight pin header, 2x01, 2.54mm pitch, double rows
+Through hole pin header THT 2x01 2.54mm double row
+0
+2
+2
+ConnectorPinHeader2_54mm
+PinHeader_2x01_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x01, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x01 2.54mm double row
+0
+2
+2
+ConnectorPinHeader2_54mm
+PinHeader_2x02_P2.54mm_Horizontal
+Through hole angled pin header, 2x02, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x02 2.54mm double row
+0
+4
+4
+ConnectorPinHeader2_54mm
+PinHeader_2x02_P2.54mm_Vertical
+Through hole straight pin header, 2x02, 2.54mm pitch, double rows
+Through hole pin header THT 2x02 2.54mm double row
+0
+4
+4
+ConnectorPinHeader2_54mm
+PinHeader_2x02_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x02, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x02 2.54mm double row
+0
+4
+4
+ConnectorPinHeader2_54mm
+PinHeader_2x03_P2.54mm_Horizontal
+Through hole angled pin header, 2x03, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x03 2.54mm double row
+0
+6
+6
+ConnectorPinHeader2_54mm
+PinHeader_2x03_P2.54mm_Vertical
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+ConnectorPinHeader2_54mm
+PinHeader_2x03_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x03, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x03 2.54mm double row
+0
+6
+6
+ConnectorPinHeader2_54mm
+PinHeader_2x04_P2.54mm_Horizontal
+Through hole angled pin header, 2x04, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x04 2.54mm double row
+0
+8
+8
+ConnectorPinHeader2_54mm
+PinHeader_2x04_P2.54mm_Vertical
+Through hole straight pin header, 2x04, 2.54mm pitch, double rows
+Through hole pin header THT 2x04 2.54mm double row
+0
+8
+8
+ConnectorPinHeader2_54mm
+PinHeader_2x04_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x04, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x04 2.54mm double row
+0
+8
+8
+ConnectorPinHeader2_54mm
+PinHeader_2x05_P2.54mm_Horizontal
+Through hole angled pin header, 2x05, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x05 2.54mm double row
+0
+10
+10
+ConnectorPinHeader2_54mm
+PinHeader_2x05_P2.54mm_Vertical
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+10
+10
+ConnectorPinHeader2_54mm
+PinHeader_2x05_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x05, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x05 2.54mm double row
+0
+10
+10
+ConnectorPinHeader2_54mm
+PinHeader_2x06_P2.54mm_Horizontal
+Through hole angled pin header, 2x06, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x06 2.54mm double row
+0
+12
+12
+ConnectorPinHeader2_54mm
+PinHeader_2x06_P2.54mm_Vertical
+Through hole straight pin header, 2x06, 2.54mm pitch, double rows
+Through hole pin header THT 2x06 2.54mm double row
+0
+12
+12
+ConnectorPinHeader2_54mm
+PinHeader_2x06_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x06, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x06 2.54mm double row
+0
+12
+12
+ConnectorPinHeader2_54mm
+PinHeader_2x07_P2.54mm_Horizontal
+Through hole angled pin header, 2x07, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x07 2.54mm double row
+0
+14
+14
+ConnectorPinHeader2_54mm
+PinHeader_2x07_P2.54mm_Vertical
+Through hole straight pin header, 2x07, 2.54mm pitch, double rows
+Through hole pin header THT 2x07 2.54mm double row
+0
+14
+14
+ConnectorPinHeader2_54mm
+PinHeader_2x07_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x07, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x07 2.54mm double row
+0
+14
+14
+ConnectorPinHeader2_54mm
+PinHeader_2x08_P2.54mm_Horizontal
+Through hole angled pin header, 2x08, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x08 2.54mm double row
+0
+16
+16
+ConnectorPinHeader2_54mm
+PinHeader_2x08_P2.54mm_Vertical
+Through hole straight pin header, 2x08, 2.54mm pitch, double rows
+Through hole pin header THT 2x08 2.54mm double row
+0
+16
+16
+ConnectorPinHeader2_54mm
+PinHeader_2x08_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x08, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x08 2.54mm double row
+0
+16
+16
+ConnectorPinHeader2_54mm
+PinHeader_2x09_P2.54mm_Horizontal
+Through hole angled pin header, 2x09, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x09 2.54mm double row
+0
+18
+18
+ConnectorPinHeader2_54mm
+PinHeader_2x09_P2.54mm_Vertical
+Through hole straight pin header, 2x09, 2.54mm pitch, double rows
+Through hole pin header THT 2x09 2.54mm double row
+0
+18
+18
+ConnectorPinHeader2_54mm
+PinHeader_2x09_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x09, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x09 2.54mm double row
+0
+18
+18
+ConnectorPinHeader2_54mm
+PinHeader_2x10_P2.54mm_Horizontal
+Through hole angled pin header, 2x10, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x10 2.54mm double row
+0
+20
+20
+ConnectorPinHeader2_54mm
+PinHeader_2x10_P2.54mm_Vertical
+Through hole straight pin header, 2x10, 2.54mm pitch, double rows
+Through hole pin header THT 2x10 2.54mm double row
+0
+20
+20
+ConnectorPinHeader2_54mm
+PinHeader_2x10_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x10, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x10 2.54mm double row
+0
+20
+20
+ConnectorPinHeader2_54mm
+PinHeader_2x11_P2.54mm_Horizontal
+Through hole angled pin header, 2x11, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x11 2.54mm double row
+0
+22
+22
+ConnectorPinHeader2_54mm
+PinHeader_2x11_P2.54mm_Vertical
+Through hole straight pin header, 2x11, 2.54mm pitch, double rows
+Through hole pin header THT 2x11 2.54mm double row
+0
+22
+22
+ConnectorPinHeader2_54mm
+PinHeader_2x11_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x11, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x11 2.54mm double row
+0
+22
+22
+ConnectorPinHeader2_54mm
+PinHeader_2x12_P2.54mm_Horizontal
+Through hole angled pin header, 2x12, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x12 2.54mm double row
+0
+24
+24
+ConnectorPinHeader2_54mm
+PinHeader_2x12_P2.54mm_Vertical
+Through hole straight pin header, 2x12, 2.54mm pitch, double rows
+Through hole pin header THT 2x12 2.54mm double row
+0
+24
+24
+ConnectorPinHeader2_54mm
+PinHeader_2x12_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x12, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x12 2.54mm double row
+0
+24
+24
+ConnectorPinHeader2_54mm
+PinHeader_2x13_P2.54mm_Horizontal
+Through hole angled pin header, 2x13, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x13 2.54mm double row
+0
+26
+26
+ConnectorPinHeader2_54mm
+PinHeader_2x13_P2.54mm_Vertical
+Through hole straight pin header, 2x13, 2.54mm pitch, double rows
+Through hole pin header THT 2x13 2.54mm double row
+0
+26
+26
+ConnectorPinHeader2_54mm
+PinHeader_2x13_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x13, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x13 2.54mm double row
+0
+26
+26
+ConnectorPinHeader2_54mm
+PinHeader_2x14_P2.54mm_Horizontal
+Through hole angled pin header, 2x14, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x14 2.54mm double row
+0
+28
+28
+ConnectorPinHeader2_54mm
+PinHeader_2x14_P2.54mm_Vertical
+Through hole straight pin header, 2x14, 2.54mm pitch, double rows
+Through hole pin header THT 2x14 2.54mm double row
+0
+28
+28
+ConnectorPinHeader2_54mm
+PinHeader_2x14_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x14, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x14 2.54mm double row
+0
+28
+28
+ConnectorPinHeader2_54mm
+PinHeader_2x15_P2.54mm_Horizontal
+Through hole angled pin header, 2x15, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x15 2.54mm double row
+0
+30
+30
+ConnectorPinHeader2_54mm
+PinHeader_2x15_P2.54mm_Vertical
+Through hole straight pin header, 2x15, 2.54mm pitch, double rows
+Through hole pin header THT 2x15 2.54mm double row
+0
+30
+30
+ConnectorPinHeader2_54mm
+PinHeader_2x15_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x15, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x15 2.54mm double row
+0
+30
+30
+ConnectorPinHeader2_54mm
+PinHeader_2x16_P2.54mm_Horizontal
+Through hole angled pin header, 2x16, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x16 2.54mm double row
+0
+32
+32
+ConnectorPinHeader2_54mm
+PinHeader_2x16_P2.54mm_Vertical
+Through hole straight pin header, 2x16, 2.54mm pitch, double rows
+Through hole pin header THT 2x16 2.54mm double row
+0
+32
+32
+ConnectorPinHeader2_54mm
+PinHeader_2x16_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x16, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x16 2.54mm double row
+0
+32
+32
+ConnectorPinHeader2_54mm
+PinHeader_2x17_P2.54mm_Horizontal
+Through hole angled pin header, 2x17, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x17 2.54mm double row
+0
+34
+34
+ConnectorPinHeader2_54mm
+PinHeader_2x17_P2.54mm_Vertical
+Through hole straight pin header, 2x17, 2.54mm pitch, double rows
+Through hole pin header THT 2x17 2.54mm double row
+0
+34
+34
+ConnectorPinHeader2_54mm
+PinHeader_2x17_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x17, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x17 2.54mm double row
+0
+34
+34
+ConnectorPinHeader2_54mm
+PinHeader_2x18_P2.54mm_Horizontal
+Through hole angled pin header, 2x18, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x18 2.54mm double row
+0
+36
+36
+ConnectorPinHeader2_54mm
+PinHeader_2x18_P2.54mm_Vertical
+Through hole straight pin header, 2x18, 2.54mm pitch, double rows
+Through hole pin header THT 2x18 2.54mm double row
+0
+36
+36
+ConnectorPinHeader2_54mm
+PinHeader_2x18_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x18, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x18 2.54mm double row
+0
+36
+36
+ConnectorPinHeader2_54mm
+PinHeader_2x19_P2.54mm_Horizontal
+Through hole angled pin header, 2x19, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x19 2.54mm double row
+0
+38
+38
+ConnectorPinHeader2_54mm
+PinHeader_2x19_P2.54mm_Vertical
+Through hole straight pin header, 2x19, 2.54mm pitch, double rows
+Through hole pin header THT 2x19 2.54mm double row
+0
+38
+38
+ConnectorPinHeader2_54mm
+PinHeader_2x19_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x19, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x19 2.54mm double row
+0
+38
+38
+ConnectorPinHeader2_54mm
+PinHeader_2x20_P2.54mm_Horizontal
+Through hole angled pin header, 2x20, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x20 2.54mm double row
+0
+40
+40
+ConnectorPinHeader2_54mm
+PinHeader_2x20_P2.54mm_Vertical
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+ConnectorPinHeader2_54mm
+PinHeader_2x20_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x20, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x20 2.54mm double row
+0
+40
+40
+ConnectorPinHeader2_54mm
+PinHeader_2x21_P2.54mm_Horizontal
+Through hole angled pin header, 2x21, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x21 2.54mm double row
+0
+42
+42
+ConnectorPinHeader2_54mm
+PinHeader_2x21_P2.54mm_Vertical
+Through hole straight pin header, 2x21, 2.54mm pitch, double rows
+Through hole pin header THT 2x21 2.54mm double row
+0
+42
+42
+ConnectorPinHeader2_54mm
+PinHeader_2x21_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x21, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x21 2.54mm double row
+0
+42
+42
+ConnectorPinHeader2_54mm
+PinHeader_2x22_P2.54mm_Horizontal
+Through hole angled pin header, 2x22, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x22 2.54mm double row
+0
+44
+44
+ConnectorPinHeader2_54mm
+PinHeader_2x22_P2.54mm_Vertical
+Through hole straight pin header, 2x22, 2.54mm pitch, double rows
+Through hole pin header THT 2x22 2.54mm double row
+0
+44
+44
+ConnectorPinHeader2_54mm
+PinHeader_2x22_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x22, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x22 2.54mm double row
+0
+44
+44
+ConnectorPinHeader2_54mm
+PinHeader_2x23_P2.54mm_Horizontal
+Through hole angled pin header, 2x23, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x23 2.54mm double row
+0
+46
+46
+ConnectorPinHeader2_54mm
+PinHeader_2x23_P2.54mm_Vertical
+Through hole straight pin header, 2x23, 2.54mm pitch, double rows
+Through hole pin header THT 2x23 2.54mm double row
+0
+46
+46
+ConnectorPinHeader2_54mm
+PinHeader_2x23_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x23, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x23 2.54mm double row
+0
+46
+46
+ConnectorPinHeader2_54mm
+PinHeader_2x24_P2.54mm_Horizontal
+Through hole angled pin header, 2x24, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x24 2.54mm double row
+0
+48
+48
+ConnectorPinHeader2_54mm
+PinHeader_2x24_P2.54mm_Vertical
+Through hole straight pin header, 2x24, 2.54mm pitch, double rows
+Through hole pin header THT 2x24 2.54mm double row
+0
+48
+48
+ConnectorPinHeader2_54mm
+PinHeader_2x24_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x24, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x24 2.54mm double row
+0
+48
+48
+ConnectorPinHeader2_54mm
+PinHeader_2x25_P2.54mm_Horizontal
+Through hole angled pin header, 2x25, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x25 2.54mm double row
+0
+50
+50
+ConnectorPinHeader2_54mm
+PinHeader_2x25_P2.54mm_Vertical
+Through hole straight pin header, 2x25, 2.54mm pitch, double rows
+Through hole pin header THT 2x25 2.54mm double row
+0
+50
+50
+ConnectorPinHeader2_54mm
+PinHeader_2x25_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x25, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x25 2.54mm double row
+0
+50
+50
+ConnectorPinHeader2_54mm
+PinHeader_2x26_P2.54mm_Horizontal
+Through hole angled pin header, 2x26, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x26 2.54mm double row
+0
+52
+52
+ConnectorPinHeader2_54mm
+PinHeader_2x26_P2.54mm_Vertical
+Through hole straight pin header, 2x26, 2.54mm pitch, double rows
+Through hole pin header THT 2x26 2.54mm double row
+0
+52
+52
+ConnectorPinHeader2_54mm
+PinHeader_2x26_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x26, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x26 2.54mm double row
+0
+52
+52
+ConnectorPinHeader2_54mm
+PinHeader_2x27_P2.54mm_Horizontal
+Through hole angled pin header, 2x27, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x27 2.54mm double row
+0
+54
+54
+ConnectorPinHeader2_54mm
+PinHeader_2x27_P2.54mm_Vertical
+Through hole straight pin header, 2x27, 2.54mm pitch, double rows
+Through hole pin header THT 2x27 2.54mm double row
+0
+54
+54
+ConnectorPinHeader2_54mm
+PinHeader_2x27_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x27, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x27 2.54mm double row
+0
+54
+54
+ConnectorPinHeader2_54mm
+PinHeader_2x28_P2.54mm_Horizontal
+Through hole angled pin header, 2x28, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x28 2.54mm double row
+0
+56
+56
+ConnectorPinHeader2_54mm
+PinHeader_2x28_P2.54mm_Vertical
+Through hole straight pin header, 2x28, 2.54mm pitch, double rows
+Through hole pin header THT 2x28 2.54mm double row
+0
+56
+56
+ConnectorPinHeader2_54mm
+PinHeader_2x28_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x28, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x28 2.54mm double row
+0
+56
+56
+ConnectorPinHeader2_54mm
+PinHeader_2x29_P2.54mm_Horizontal
+Through hole angled pin header, 2x29, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x29 2.54mm double row
+0
+58
+58
+ConnectorPinHeader2_54mm
+PinHeader_2x29_P2.54mm_Vertical
+Through hole straight pin header, 2x29, 2.54mm pitch, double rows
+Through hole pin header THT 2x29 2.54mm double row
+0
+58
+58
+ConnectorPinHeader2_54mm
+PinHeader_2x29_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x29, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x29 2.54mm double row
+0
+58
+58
+ConnectorPinHeader2_54mm
+PinHeader_2x30_P2.54mm_Horizontal
+Through hole angled pin header, 2x30, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x30 2.54mm double row
+0
+60
+60
+ConnectorPinHeader2_54mm
+PinHeader_2x30_P2.54mm_Vertical
+Through hole straight pin header, 2x30, 2.54mm pitch, double rows
+Through hole pin header THT 2x30 2.54mm double row
+0
+60
+60
+ConnectorPinHeader2_54mm
+PinHeader_2x30_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x30, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x30 2.54mm double row
+0
+60
+60
+ConnectorPinHeader2_54mm
+PinHeader_2x31_P2.54mm_Horizontal
+Through hole angled pin header, 2x31, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x31 2.54mm double row
+0
+62
+62
+ConnectorPinHeader2_54mm
+PinHeader_2x31_P2.54mm_Vertical
+Through hole straight pin header, 2x31, 2.54mm pitch, double rows
+Through hole pin header THT 2x31 2.54mm double row
+0
+62
+62
+ConnectorPinHeader2_54mm
+PinHeader_2x31_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x31, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x31 2.54mm double row
+0
+62
+62
+ConnectorPinHeader2_54mm
+PinHeader_2x32_P2.54mm_Horizontal
+Through hole angled pin header, 2x32, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x32 2.54mm double row
+0
+64
+64
+ConnectorPinHeader2_54mm
+PinHeader_2x32_P2.54mm_Vertical
+Through hole straight pin header, 2x32, 2.54mm pitch, double rows
+Through hole pin header THT 2x32 2.54mm double row
+0
+64
+64
+ConnectorPinHeader2_54mm
+PinHeader_2x32_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x32, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x32 2.54mm double row
+0
+64
+64
+ConnectorPinHeader2_54mm
+PinHeader_2x33_P2.54mm_Horizontal
+Through hole angled pin header, 2x33, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x33 2.54mm double row
+0
+66
+66
+ConnectorPinHeader2_54mm
+PinHeader_2x33_P2.54mm_Vertical
+Through hole straight pin header, 2x33, 2.54mm pitch, double rows
+Through hole pin header THT 2x33 2.54mm double row
+0
+66
+66
+ConnectorPinHeader2_54mm
+PinHeader_2x33_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x33, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x33 2.54mm double row
+0
+66
+66
+ConnectorPinHeader2_54mm
+PinHeader_2x34_P2.54mm_Horizontal
+Through hole angled pin header, 2x34, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x34 2.54mm double row
+0
+68
+68
+ConnectorPinHeader2_54mm
+PinHeader_2x34_P2.54mm_Vertical
+Through hole straight pin header, 2x34, 2.54mm pitch, double rows
+Through hole pin header THT 2x34 2.54mm double row
+0
+68
+68
+ConnectorPinHeader2_54mm
+PinHeader_2x34_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x34, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x34 2.54mm double row
+0
+68
+68
+ConnectorPinHeader2_54mm
+PinHeader_2x35_P2.54mm_Horizontal
+Through hole angled pin header, 2x35, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x35 2.54mm double row
+0
+70
+70
+ConnectorPinHeader2_54mm
+PinHeader_2x35_P2.54mm_Vertical
+Through hole straight pin header, 2x35, 2.54mm pitch, double rows
+Through hole pin header THT 2x35 2.54mm double row
+0
+70
+70
+ConnectorPinHeader2_54mm
+PinHeader_2x35_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x35, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x35 2.54mm double row
+0
+70
+70
+ConnectorPinHeader2_54mm
+PinHeader_2x36_P2.54mm_Horizontal
+Through hole angled pin header, 2x36, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x36 2.54mm double row
+0
+72
+72
+ConnectorPinHeader2_54mm
+PinHeader_2x36_P2.54mm_Vertical
+Through hole straight pin header, 2x36, 2.54mm pitch, double rows
+Through hole pin header THT 2x36 2.54mm double row
+0
+72
+72
+ConnectorPinHeader2_54mm
+PinHeader_2x36_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x36, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x36 2.54mm double row
+0
+72
+72
+ConnectorPinHeader2_54mm
+PinHeader_2x37_P2.54mm_Horizontal
+Through hole angled pin header, 2x37, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x37 2.54mm double row
+0
+74
+74
+ConnectorPinHeader2_54mm
+PinHeader_2x37_P2.54mm_Vertical
+Through hole straight pin header, 2x37, 2.54mm pitch, double rows
+Through hole pin header THT 2x37 2.54mm double row
+0
+74
+74
+ConnectorPinHeader2_54mm
+PinHeader_2x37_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x37, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x37 2.54mm double row
+0
+74
+74
+ConnectorPinHeader2_54mm
+PinHeader_2x38_P2.54mm_Horizontal
+Through hole angled pin header, 2x38, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x38 2.54mm double row
+0
+76
+76
+ConnectorPinHeader2_54mm
+PinHeader_2x38_P2.54mm_Vertical
+Through hole straight pin header, 2x38, 2.54mm pitch, double rows
+Through hole pin header THT 2x38 2.54mm double row
+0
+76
+76
+ConnectorPinHeader2_54mm
+PinHeader_2x38_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x38, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x38 2.54mm double row
+0
+76
+76
+ConnectorPinHeader2_54mm
+PinHeader_2x39_P2.54mm_Horizontal
+Through hole angled pin header, 2x39, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x39 2.54mm double row
+0
+78
+78
+ConnectorPinHeader2_54mm
+PinHeader_2x39_P2.54mm_Vertical
+Through hole straight pin header, 2x39, 2.54mm pitch, double rows
+Through hole pin header THT 2x39 2.54mm double row
+0
+78
+78
+ConnectorPinHeader2_54mm
+PinHeader_2x39_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x39, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x39 2.54mm double row
+0
+78
+78
+ConnectorPinHeader2_54mm
+PinHeader_2x40_P2.54mm_Horizontal
+Through hole angled pin header, 2x40, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x40 2.54mm double row
+0
+80
+80
+ConnectorPinHeader2_54mm
+PinHeader_2x40_P2.54mm_Vertical
+Through hole straight pin header, 2x40, 2.54mm pitch, double rows
+Through hole pin header THT 2x40 2.54mm double row
+0
+80
+80
+ConnectorPinHeader2_54mm
+PinHeader_2x40_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x40, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x40 2.54mm double row
+0
+80
+80
