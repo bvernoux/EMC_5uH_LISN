@@ -1,8 +1,9 @@
 # 5µH LISN(Line Impedance Stabilization Network)
-Open Source Hardware Dual 5µH DC LISN with 10dB Attenuator and Transient Limiter for Spectrum Analyzer EMC work
+Open Source Hardware Dual 5µH DC LISN with 10dB Attenuator and Transient Limiter for Spectrum Analyzer EMC work.
+
 A LISN is a [Line Impedance Stabilization Network](https://en.wikipedia.org/wiki/Line_Impedance_Stabilization_Network) used in conducted emissions testing.
 
-The AIM of this Dual LISN is to be used for EMC pre-testing with frequency range 30kHz to 110MHz.
+The AIM of this Dual LISN is to be used for EMC pre-testing with frequency range 30kHz(or lower) to 110MHz(or up to 150MHz or more).
 
 This open source hardware LISN include following features:
 * Designed with fully open source tools like [KiCad 5.99 Nightly](https://www.kicad.org)
