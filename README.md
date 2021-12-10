@@ -8,6 +8,7 @@ The AIM of this Dual LISN is to be used for EMC pre-testing with frequency range
 This open source hardware LISN V1 R0 include following features:
 * Designed with fully open source tools like [KiCad 5.99 Nightly](https://www.kicad.org)
 * Improvement in this design: 
+  * Added simulation with LTSpice of the 10dB Attenuator / Transient Filter (with default 1N4148 and BAV99 see Simu dir)
   * Modified Supply & DUT "+ GND -" to be separated by 19.06mm for 4mm BANANA JACK for BNC adapter
   * Use BAV99 instead of 1N4148W Diodes (improve 10dB Attenuator and Transient Limiter to be flat up to >200MHz)
   * Replace Keystone 575-4 by Keystone 575-8 (as the 575-4 was too short)
@@ -19,6 +20,10 @@ This open source hardware LISN V1 R0 include following features:
   * Include 10dB Attenuator and Transient Limiter for each SMA connector to be connected to a Spectrum Analyzer
     * Max. 1W / 30dBm if 50°C Temperature raise is allowed
     * The Transient limiter is a 9kHz HP filter, which is also a dc block.
+
+![picture of 5uH_LISN_V1_R0_Top](./5uH_LISN_V1_R0_Top.png)
+![picture of 5uH_LISN_V1_R0_Bottom](./5uH_LISN_V1_R0_Bottom.png)
+
 
 This work is heavily based on work from others mainly **Jay_Diddy_B** & **Noy** from EEVBLOG forum.
 
