@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 4.1,
-          "height": 8.0,
-          "width": 8.0
+          "drill": 5.2,
+          "height": 10.0,
+          "width": 10.0
         },
         "silk_line_width": 0.15239999999999998,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.19999999999999998
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -70,6 +70,7 @@
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
+        "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
@@ -88,6 +89,7 @@
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
+        "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
         "track_width": "error",
@@ -406,11 +408,7 @@
           "Net-(C14-Pad2)",
           "Net-(C15-Pad2)",
           "Net-(C16-Pad2)",
-          "Net-(C2-Pad2)",
-          "Net-(D1-Pad1)",
-          "Net-(D2-Pad1)",
-          "Net-(D5-Pad1)",
-          "Net-(D6-Pad1)"
+          "Net-(C2-Pad2)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -445,7 +443,7 @@
       }
     ],
     "meta": {
-      "version": 1
+      "version": 2
     },
     "net_colors": null
   },
@@ -491,7 +489,7 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0,
+      "model_mode": 3,
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",

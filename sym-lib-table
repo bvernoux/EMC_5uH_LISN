@@ -152,4 +152,5 @@
   (lib (name "dk_Addressable-Specialty")(type "Legacy")(uri "/home/noy/Downloads/digikey-kicad-library-master/digikey-symbols/dk_Addressable-Specialty.lib")(options "")(descr "")(disabled))
   (lib (name "5uH_LISN-rescue")(type "Legacy")(uri "${KIPRJMOD}/5uH_LISN-rescue.lib")(options "")(descr ""))
   (lib (name "CASE_HAMMOND_1590BBK")(type "KiCad")(uri "${KIPRJMOD}/CASE_HAMMOND_1590BBK.kicad_sym")(options "")(descr ""))
+  (lib (name "SOT23-DIODEDUAL")(type "Legacy")(uri "${KIPRJMOD}/SOT23-DIODEDUAL.lib")(options "")(descr ""))
 )
