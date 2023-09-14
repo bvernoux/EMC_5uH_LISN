@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding='UTF-8'?>
+<CAMsetup>
+	<thisfile>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn-_project.camset</thisfile>
+	<morelayertypes>
+	</morelayertypes>
+	<usecolors>
+		<mixer>0.000</mixer>
+		<object type="Plated H. In">E0BFBFBF</object>
+		<object type="Plated H. Out">B326120F</object>
+		<object type="Edge In">008C8C09</object>
+		<object type="Edge Out">00809854</object>
+		<object type="Volume">767D8C59</object>
+		<object type="Background">006FAEFF</object>
+		<layer type="PasteMask">008080C0</layer>
+		<layer type="Silkscreen">00E3E3E3</layer>
+		<layer type="SolderMask">800B2B06</layer>
+		<layer type="Copper">F0765223</layer>
+		<layer type="Core">00000000</layer>
+		<layer type="Prepreg">00000000</layer>
+		<layer type="BoardOutline">00000000</layer>
+	</usecolors>
+	<boardlayers>
+		<layer type="PasteMask" H="35" Er="0.000" color="00689FB1">
+			<filename>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn-f_paste.gtp</filename>
+			<filedisp>5uh_lisn-f_paste.gtp</filedisp>
+		</layer>
+		<layer type="Silkscreen" H="35" Er="0.000" color="00CBCFCF">
+			<filename>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn-f_silkscreen.gto</filename>
+			<filedisp>5uh_lisn-f_silkscreen.gto</filedisp>
+		</layer>
+		<layer type="SolderMask" H="35" Er="0.000" color="00002400">
+			<filename>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn-f_mask.gts</filename>
+			<filedisp>5uh_lisn-f_mask.gts</filedisp>
+		</layer>
+		<layer type="Copper" H="35" Negative="DefaultPositive" color="00800000">
+			<filename>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn-front.gtl</filename>
+			<filedisp>5uh_lisn-front.gtl</filedisp>
+		</layer>
+		<layer type="Core" H="1360" Er="4.800">
+		</layer>
+		<layer type="Copper" H="35" Negative="DefaultPositive" color="000000D0">
+			<filename>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn-back.gbl</filename>
+			<filedisp>5uh_lisn-back.gbl</filedisp>
+		</layer>
+		<layer type="SolderMask" H="35" Er="0.000" color="00001A19">
+			<filename>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn-b_mask.gbs</filename>
+			<filedisp>5uh_lisn-b_mask.gbs</filedisp>
+		</layer>
+		<layer type="Silkscreen" H="35" Er="0.000" color="00C9DFF1">
+			<filename>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn-b_silkscreen.gbo</filename>
+			<filedisp>5uh_lisn-b_silkscreen.gbo</filedisp>
+		</layer>
+		<layer type="PasteMask" H="35" Er="0.000" color="006689C9">
+			<filename>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn-b_paste.gbp</filename>
+			<filedisp>5uh_lisn-b_paste.gbp</filedisp>
+		</layer>
+		<layer type="BoardOutline" H="1570">
+			<filename>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn-edge_cuts.gm1</filename>
+			<filedisp>5uh_lisn-edge_cuts.gm1</filedisp>
+		</layer>
+	</boardlayers>
+
+	<boarddrillplates>
+		<drillplate from="top" to="btm" plated="no">
+			<filename>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn-npth.drl</filename>
+			<filedisp>5uh_lisn-npth.drl</filedisp>
+		</drillplate>
+		<drillplate from="top" to="btm" plated="yes" filled="no" microvia="no">
+			<filename>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn-pth.drl</filename>
+			<filedisp>5uh_lisn-pth.drl</filedisp>
+		</drillplate>
+	</boarddrillplates>
+
+	<ipc356>
+		<filename>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn.d356</filename>
+		<filedisp>5uh_lisn.d356</filedisp>
+	</ipc356>
+
+	<bom>
+		<filename>D:\_\EMC_5uH_LISN\Gerber_IPC356_BOM_camset\5uh_lisn.csv</filename>
+		<filedisp>5uh_lisn.csv</filedisp>
+	</bom>
+
+	<GerberSetup Incremental='no' OmitTrailingZeros='no' Milimeters='no' Len1='2' Len2='3'/>
+	<NCDSetup Guess='yes' Incremental='no' OmitTrailingZeros='no' Units='DefaultInch' Len1='2' Len2='3' Autooffset='yes'/>
+	<IPC356Setup AutoUnits='1' AutoMagnitude='1' LongPinID='yes' CpyFromDrill='yes' Autooffset='yes' AutoBtmAcc='yes'/>
+	<BoardOutlineDrawing srctype='1' trackwidthMin='0.004' trackwidthSlopStart='0.01' trackwidthMetaTrsh='0.012'/>
+	<IdentifyOutline mode='3' removeoutside='no' horizMargin='1' vertMargin='1' brushBlob='1' />
+	<NetList DefaultColor="hash">
+	</NetList>
+
+	<ComponentList>
+		<c RefID="C1" model=""/>
+		<c RefID="C2" model=""/>
+		<c RefID="C5" model=""/>
+		<c RefID="C6" model=""/>
+		<c RefID="C7" model=""/>
+		<c RefID="C8" model=""/>
+		<c RefID="C11" model=""/>
+		<c RefID="C12" model=""/>
+		<c RefID="C13" model=""/>
+		<c RefID="C14" model=""/>
+		<c RefID="C15" model=""/>
+		<c RefID="C16" model=""/>
+		<c RefID="D1" model=""/>
+		<c RefID="D2" model=""/>
+		<c RefID="D3" model=""/>
+		<c RefID="D4" model=""/>
+		<c RefID="GD1" model=""/>
+		<c RefID="GD2" model=""/>
+		<c RefID="H1" side="top" model=""/>
+		<c RefID="H2" side="top" model=""/>
+		<c RefID="H3" side="top" model=""/>
+		<c RefID="H4" side="top" model=""/>
+		<c RefID="J1" side="top" model=""/>
+		<c RefID="J2" side="top" model=""/>
+		<c RefID="J3" side="top" model=""/>
+		<c RefID="J4" side="top" model=""/>
+		<c RefID="J5" side="top" model=""/>
+		<c RefID="J6" side="top" model=""/>
+		<c RefID="J7" side="top" model=""/>
+		<c RefID="J8" side="top" model=""/>
+		<c RefID="L1" model=""/>
+		<c RefID="L2" model=""/>
+		<c RefID="L3" model=""/>
+		<c RefID="L4" model=""/>
+		<c RefID="L5" model=""/>
+		<c RefID="L6" model=""/>
+		<c RefID="L7" model=""/>
+		<c RefID="L8" model=""/>
+		<c RefID="L9" model=""/>
+		<c RefID="L10" model=""/>
+		<c RefID="L11" model=""/>
+		<c RefID="L12" model=""/>
+		<c RefID="R1" model=""/>
+		<c RefID="R2" model=""/>
+		<c RefID="R3" model=""/>
+		<c RefID="R4" model=""/>
+		<c RefID="R5" model=""/>
+		<c RefID="R6" model=""/>
+		<c RefID="R7" model=""/>
+		<c RefID="R8" model=""/>
+		<c RefID="R9" model=""/>
+		<c RefID="R10" model=""/>
+		<c RefID="R11" model=""/>
+		<c RefID="R12" model=""/>
+		<c RefID="R13" model=""/>
+		<c RefID="R14" model=""/>
+		<c RefID="R15" model=""/>
+		<c RefID="R16" model=""/>
+		<c RefID="R17" model=""/>
+		<c RefID="R18" model=""/>
+		<c RefID="R19" model=""/>
+		<c RefID="R20" model=""/>
+		<c RefID="R21" model=""/>
+		<c RefID="R22" model=""/>
+		<c RefID="R23" model=""/>
+		<c RefID="R24" model=""/>
+		<c RefID="R25" model=""/>
+		<c RefID="R26" model=""/>
+		<c RefID="R27" model=""/>
+		<c RefID="R28" model=""/>
+		<c RefID="R29" model=""/>
+		<c RefID="R30" model=""/>
+		<c RefID="R31" model=""/>
+		<c RefID="R32" model=""/>
+	</ComponentList>
+</CAMsetup>
